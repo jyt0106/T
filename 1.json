@@ -27,7 +27,7 @@
 {"key":"csp_AliPS","name":"🐱盘搜(阿里)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"app:41651cf46fbf46a99277d6b5c221a5f5"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"app:41651cf46fbf46a99277d6b5c221a5f5"},
 
-{"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+
 {"key":"csp_GAOAA","name":"🎤GAOAA","type":3,"api":"csp_XBGAOAA","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jyt0106.github.io/Y/yy.json"},
 
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVBox/MaooXP/huya2.json"},
