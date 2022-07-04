@@ -41,8 +41,8 @@
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/hdmoli.json"},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPS","name":"🐱盘搜(阿里)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"自己的token"},
-{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"自己的token"},​
+{"key":"csp_AliPS","name":"🐱盘搜(阿里)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"app:(md5)f1a1d7c3a3b1a4e2a4c2456cca8fbc95,uid=122868e49f284d57a536bcbf38c576c8"},
+{"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"app:(md5)f1a1d7c3a3b1a4e2a4c2456cca8fbc95,uid=122868e49f284d57a536bcbf38c576c8"},​
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
