@@ -45,7 +45,7 @@
 {"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/guapiTV.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/saohuotv2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/douyu.json"},
-{"{"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jyt0106.github.io/yi/hy.json"},
+{"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jyt0106.github.io/yi/hy.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/MaooXP/kuqimv.json"},
 {"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/ikan6.json"},
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXB/tgys.json"},
