@@ -34,7 +34,7 @@
 {"key":"csp_xpath_pianku","name":"💩片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/yi/pianku.json"},
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/yi/saohuotv2.json"}, 
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jyt0106.github.io/yi/huya2.json"},
-{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/yi/douyu.json"},
+{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jyt0106.github.io/yi/斗鱼.json"},
  
  
  
