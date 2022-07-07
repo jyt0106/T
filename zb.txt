@@ -89,12 +89,7 @@
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
-陕西,#genre#
-西安新闻综,http://stream2.xiancity.cn/xatv1/sd/live.m3u8?zhend
-西安白鸽,http://stream2.xiancity.cn/xatv2/sd/live.m3u8?zhend
-西安影院,http://stream2.xiancity.cn/xatv4/sd/live.m3u8?zhend
-西安丝路,http://stream2.xiancity.cn/xatv5/sd/live.m3u8?zhend
-宝鸡新闻综合,http://live.tvbaoji.com:9600/live/live2/800K/tzwj_video.m3u8?auth=855832649489747@6346@61F67E9317723A9A2760B896A213349B {User-Agent@0151?zhend}
+
 央视,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
