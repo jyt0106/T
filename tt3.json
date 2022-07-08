@@ -61,7 +61,7 @@
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/MaooXB/lgys.json"},    
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-
+{"key":"csp_优质_4K影院","name":"4K影院(优质)","type":3，"api":"csp_AppYsV2","filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
 
 
    
@@ -72,8 +72,7 @@
 {"key":"csp_xpath___九四神马","name":"九四神马〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/94sm.json"},
 {"key":"csp_xpath___达龟影视","name":"达龟影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/dadagui.json"},
 {"key":"csp_xpath___利奥影视","name":"利奥影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/libvio.json"},
-{"key":"csp_xpath___极品影视","name":"极品影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/jpys.json"},
-{"key":"csp_xpath___师兄影视","name":"师兄影视〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/tvci.json"},
+
 {"key":"csp_xpath___动漫巴士","name":"动漫巴士〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/dm84.json"}
 
 
