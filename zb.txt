@@ -1,3 +1,14 @@
+虎牙直播,#genre#
+张大仙,https://live.52sf.ga/huya/688
+王者荣耀赛事,https://live.52sf.ga/huya/kpl
+英雄联盟赛事,https://live.52sf.ga/huya/lpl
+暴雪频道,https://live.52sf.ga/huya/blizzardgame1
+ESLCSGO,https://live.52sf.ga/huya/eslcsgo
+
+斗鱼直播,#genre#
+罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
+
+
 广东,#genre#
 广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
