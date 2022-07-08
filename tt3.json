@@ -21,8 +21,7 @@
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
    
-{"key":"csp_优质_4K影院","name":"4K影院(优质)","type":3"api":"csp_AppYsV2","filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
-   
+{"key":"csp_优质_4K影院","name":"4K影院(优质)","type":3,"api":"csp_AppYsV2","filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
    
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
