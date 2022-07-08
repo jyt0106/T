@@ -19,7 +19,23 @@
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{
 
+      "key": "Bili",
+
+      "name": "B站",
+
+      "type": 3,
+
+      "api": "csp_Bili",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    }
    
 {"key":"csp_优质_4K影院","name":"4K影院(优质)","type":3,"api":"csp_AppYsV2","filterable":1,"ext":"http://1api.4kdytv.com/api.php/v1.vod"},
    
