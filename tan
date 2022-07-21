@@ -1,4 +1,4 @@
-{ "spider":"https://cdn.jsdelivr.net/gh/jyt0106/t@main/921.jar",
+{ "spider":"https://cdn.jsdelivr.net/gh/jyt0106/t@main/13.jar",
  "lives":[{"group":"redirect","channels":[{"name":"live",
  "urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}], 
  "sites":[ {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -53,7 +53,7 @@
           {"key":"csp_biubiu_nicotv","name":"🏠nicotv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jyt0106.github.io/t/nicotv.json"},
           {"key":"csp_xpath_nicotv","name":"妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jyt0106.github.io/t/nicotv.json"},
           {"key":"土狗360","name":"土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-          {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+          {"key":"293视频","name":"🐌293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
           
           
           
