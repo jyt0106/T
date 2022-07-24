@@ -55,7 +55,11 @@
           {"key":"土狗360","name":"土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
           {"key":"293视频","name":"🐌293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
           
-          
+              {
+
+      "key": "小熊",  "name": "🐻小熊TV",  "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1","filterable": 1
+
+    },
           
           
           
