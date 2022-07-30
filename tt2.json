@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://my-jyt0106.vercel.app/api",
 
-"spider":"https://jyt0106.github.io/t/9241.jar",
+"spider":"https://jyt0106.github.io/t/9241.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9qeXQwMTA2LmdpdGh1Yi5pby90L3piLnR4dA=="
