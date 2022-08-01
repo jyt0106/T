@@ -1,5 +1,15 @@
 {
 "sites": [
+{
+      "key": "csp_Blijc",
+      "name": "MD(SP)",
+     "type": 1,
+    "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,"jar":"https://jyt0106.github.io/t/box.jar"},
+    
+    {
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
