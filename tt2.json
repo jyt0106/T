@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://my-jyt0106.vercel.app/api",
 
-"spider":"https://jyt0106.github.io/t/730.jar;md5;f075c68923873e3691d9421b18084228",
+"spider":"https://jyt0106.github.io/t/730.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9qeXQwMTA2LmdpdGh1Yi5pby90L3piLnR4dA=="
@@ -33,10 +33,10 @@
 {"key":"csp_DY1990","name":"🎥1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Libvio","name":"🐻Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"🏢泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jyt0106.github.io/t/730.jar;md5;f075c68923873e3691d9421b18084228"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://jyt0106.github.io/t/730.jar"},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},   
-{"key":"csp_Gitca","name":"🎐小书本","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
+
 
 
 
