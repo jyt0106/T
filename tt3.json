@@ -1,6 +1,6 @@
 
 
-{
+{   "wallpaper":"https://my-jyt0106.vercel.app/api",
   //"spider":"https://gitea.com/jyt/Y/raw/branch/main/jiang.jar",
    "spider":"https://gitea.com/jyt/Y/raw/branch/main/top94.jar;md5;09474dc3534f38f24eb400459bf3050a",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vanl0L1kvcmF3L2JyYW5jaC9tYWluL3piLnR4dA=="]}]}],
