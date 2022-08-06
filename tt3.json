@@ -66,7 +66,7 @@
 {"key":"樱花资源","name":"🌺樱花资源🌺","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"TV采集","name":"📺TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"考拉直链","name":"🍭考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+{"key":"csp_xpath_喵乐","name":"喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXP/喵乐.json"},
 {"key":"csp_DY1990","name":"🐹1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "小熊",
