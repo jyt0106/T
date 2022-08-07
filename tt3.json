@@ -53,6 +53,10 @@
 {"key": "Ikan", "name": "🎄爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_biubiu_中国电影","name":"💖中国电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/中国电影.json"},
 
+
+
+{"key":"csp_biubiu_voflix","name":"✌️VOFLIX HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/VOFLIX.json"},
+
 {"key":"csp_xpath_nicotv","name":"☔️妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXP/nicotv.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🌈蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/蓝光影院.json"},
 {"key":"csp_biubiu_蓝莓影视","name":"🍇蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/蓝莓影视.json"},
