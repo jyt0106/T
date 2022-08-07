@@ -56,7 +56,7 @@
 {"key":"csp_xpath_nicotv","name":"☔️妮可动漫(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXP/nicotv.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🌈蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/蓝光影院.json"},
 {"key":"csp_biubiu_蓝莓影视","name":"🍇蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/蓝莓影视.json"},
-   
+{"key":"csp_桔子TV","name":"桔子TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXP/%E6%A1%94%E5%AD%90TV.json" }, 
 {"key":"csp_biubiu_乐猪影视","name":"🐖乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/乐猪影视.json"},   
 {"key":"csp_xml___量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"csp_biubiu_人人影视","name":"🚴🏼‍♂️人人影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jyt/Y/raw/branch/main/MeowXB/人人影视.json"},
