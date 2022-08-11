@@ -1,19 +1,66 @@
-虎牙直播,#genre#
+
+🐯虎牙直播,#genre#
 张大仙,https://live.52sf.ga/huya/688
 王者荣耀赛事,https://live.52sf.ga/huya/kpl
 英雄联盟赛事,https://live.52sf.ga/huya/lpl
 暴雪频道,https://live.52sf.ga/huya/blizzardgame1
 ESLCSGO,https://live.52sf.ga/huya/eslcsgo
 
-斗鱼直播,#genre#
+🐷直播,#genre#
 罗翔法考,https://live.52sf.ga/douyu/8805#https://liveb.52sf.ga/douyu/8805
+芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8#http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
+唐人街探案3,https://cdn.zoubuting.com/20210625/YAsZuFuS/1200kb/hls/index.m3u8
+华数 ,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+英雄联盟,http://hls-ott-zhibo.wasu.tv/live/461/index.m3u8
+华数高清,http://125.210.152.19:9090/live/hzgq-hsfwgq-h264.m3u8
+
+👍4K,#genre#
+4K测试,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+4K电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
+4K影院,http://epg.112114.xyz/douyu/9249162
+4K连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+4K华数电影,http://111.40.196.28/0000000000001000/1.m3u8?Contentid=6000000003000004748&livemode=1&stbId=1213&channel-id=wasusyt
+爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8 
+纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
+纯享4k,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+欢笑剧场4K,http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+南国都市4K,http://ye23.win/iptv/gztv.php?id=shenghuo
+CCTV4K-HD,https://p.ggiptv.com/v/4k.m3u8
+CCTV4K-HD,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV8K-8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
+CCTV8K-8K超高清,http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
+CCTV8K-8K超高清,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
+CCTV16-奥林匹克4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+4K超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+
+
 
 
 广东,#genre#
- 广东珠江,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
 南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
+广东珠江,http://27.36.62.163:9090/live/gdzhujiang_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
+
+广东珠江,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
+广东珠江,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
@@ -26,36 +73,260 @@ ESLCSGO,https://live.52sf.ga/huya/eslcsgo
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8?_upt=61db0df01642739502?zguangd
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8?zguangd
 珠海综合,http://dslive.grtn.cn/zhzh/sd/live.m3u8?zguangd
-蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8?zguangd
-蛇口,http://218.17.99.211:5080/hls/ttsw6ccn.m3u8?zguangd
-韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-韶关新闻,http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8?zguangd
-韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8?zguangd
-清新综合,http://hls.wiseqx.com/live/qxzh.m3u8?zguangd
-平远综合,https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8?zguangd
-惠州新闻综合,http://dslive.grtn.cn/hzzh/sd/live.m3u8?zguangd
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8?zguangd
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
-阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_w551261166_b928000.m3u8?zguangd
-阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
-肇庆综合,http://dslive.grtn.cn/zqzh/sd/live.m3u8?_upt=0ca3e6411630330482?zguangd
-丰顺综合,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8?zguangd
-江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8?zguangd
-电白综合,http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8?zguangd
-电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8?zguangd
-五华综合,http://p2.weizan.cn/2100036413/734648609627739039/live.m3u8?zguangd
-阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
-云浮综合,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8?zguangd
-云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8?zguangd
-云浮公共,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8?zguangd
-1号[1920*1080],http://120.237.252.67:8800/hls/1/index.m3u8
-2号[1920*1080],http://120.237.252.67:8800/hls/2/index.m3u8
-5号[1920*1080],http://120.237.252.67:8800/hls/5/index.m3u8
-7号[1920*1080],http://120.237.252.67:8800/hls/7/index.m3u8
+
+广东|广东珠江,http://183.11.239.32:808/hls/12/index.m3u8
+广东|广东体育,http://183.11.239.32:808/hls/109/index.m3u8
+广东|广东新闻,http://183.11.239.32:808/hls/2/index.m3u8
+广东|广东影视,http://183.11.239.32:808/hls/8/index.m3u8
+广东|广东公共,http://183.11.239.32:808/hls/3/index.m3u8
+广东|岭南戏曲,http://183.11.239.32:808/hls/6/index.m3u8
+广东|嘉佳卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221226193/index.m3u8
+广东|嘉佳卡通,http://140.207.241.3:8080/live/program/live/jjkt/1300000/d1.m3u8
+广东|广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+广东|深圳公共频道,http://183.11.239.32:808/hls/107/index.m3u8
+广东|深圳财经生活,http://183.11.239.32:808/hls/103/index.m3u8
+广东|深圳少儿频道,http://183.11.239.32:808/hls/106/index.m3u8
+广东|深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+广东|深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
+广东|深圳众创TV,https://lglivepull.sznews.com/live/2645.m3u8
+广东|河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+广东|河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+广东|清远综合,https://zqy-live.nanyuecloud.com/qingyuandianshi1/qingyuandianshistream1.m3u8?auth_key=601634549293-0-0-96c65af4438160da817d5e34b27b9b7a
+广东|清远公共,https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
+广东|梅州综合,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
+广东|梅州二套,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+广东|湛江综合,http://zjstyhls.tianma3600.com/zjsty/zhpd.m3u8
+广东|湛江公共,http://zjstyhls.tianma3600.com/zjsty/ggpd.m3u8
+广东|云浮综合,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfzh.m3u8
+广东|云浮公共,https://pili-live-hdl-ysx.tianma3600.com/gdyf/gdyfgg.m3u8
+广东|电白综合,http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+广东|电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+广东|电白视窗,http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+广东|清新综合,http://hls.wiseqx.com/live/qxzh.m3u8
+广东|清新公共,http://hls.wiseqx.com/live/qxgg.m3u8
+广东|增城综合,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+广东|番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+广东|丰顺综合,https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
+广东|丰顺影视,https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
+广东|平远综合,https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
+广东|五华综合,http://p2.weizan.cn/2100036413/734648609627739039/live.m3u8
+广东|五华信息,http://p2.weizan.cn/2100036413/503944748097837211/live.m3u8
+💥｜新闻,#genre#
+CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://39.135.55.72:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV1,http://39.136.48.8:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV1,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225762/index.m3u8
+CCTV1,http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.32.103:6610/270000001111/1110000146/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.136.48.18:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV1,http://183.207.249.9/PLTV/3/224/3221225530/index.m3u8
+CCTV1,http://222.240.82.92:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.136.48.5:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV1,http://39.134.116.30:8080/PLTV/88888910/224/3221225762/index.m3u8
+CCTV1,http://39.136.48.2:8089/PLTV/88888888/224/3221225859/index.m3u8
+CCTV1,http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.134.32.101:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225762/index.m3u8
+CCTV1,http://39.134.65.142/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.135.138.58:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1,http://39.134.32.101:6610/270000001111/1110000023/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&RTS=1648965019&from=79102&ocs=2_117.169.120.241_8080&hms_devid=1402&online=1648965019&vqe=3
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1,http://183.207.249.16/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+CCTV13,http://39.135.55.72:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
+CCTV13,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv13/1.m3u8?IASHttpSessionId=OTT
+CCTV13,http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
+CCTV13,http://183.207.249.71/ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+CCTV13,http://39.134.32.103:6610/270000001111/1110000161/index.m3u8?IASHttpSessionId=OTT
+CCTV13,http://183.207.249.36:80/PLTV/4/224/3221227387/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=188510429838C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz8gqXYszxJXTww4r47BQdS0%2BwWipdMTdABh
+CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
+CCTV13,http://39.136.48.11:8089/PLTV/88888888/224/3221226328/index.m3u8
+CCTV13,http://39.136.48.18:8089/PLTV/88888888/224/3221226328/index.m3u8
+CCTV13,http://39.136.48.5:8089/PLTV/88888888/224/3221226328/index.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+CCTV13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8
+CCTV13,http://39.136.48.6:8089/PLTV/88888888/224/3221226328/index.m3u8
+CCTV13,http://sd.jilu8.cn/3221226328/index.m3u8
+CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
+CCTV2,http://39.134.116.30:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+CCTV2,http://39.135.138.58:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
+CCTV2,http://39.136.48.5:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV2,http://39.135.55.72:6610/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV2,http://sd.jilu8.cn/3221225751/index.m3u8
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV2,http://39.136.48.2:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV2,http://111.59.189.40:8445/tsfile/live/1001_1.m3u8
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8
+CCTV2,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://183.196.25.171:808/hls/2/index.m3u8
+CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV2,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT
+CCTV2,http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.136.48.6:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV2,http://39.136.48.18:8089/PLTV/88888888/224/3221225751/index.m3u8
+CCTV2,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225643/index.m3u8
+CCTV2,http://39.135.47.100:6610/000000001000/HD-8000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT
+CCTV4,http://39.136.48.18:8089/PLTV/88888888/224/3221225757/index.m3u8
+CCTV4,http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000320/index.m3u8?IASHttpSessionId=OTT
+CCTV4,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv4/1.m3u8?IASHttpSessionId=OTT
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8?
+CCTV4,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://39.135.138.58:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
+CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV4,http://61.160.152.2/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/.m3u8
+CCTV4,http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
+CCTV4,http://182.151.211.171:808/hls/4/index.m3u8
+CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV4,http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+CCTV4,http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰中文,http://39.135.55.72:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
 
 
+🏀｜体育,#genre#
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5,http://111.59.189.40:8445/tsfile/live/0113_1.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
+CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+CCTV5+,http://111.59.189.40:8445/tsfile/live/1018_1.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV16,http://39.135.32.10:6610/000000001000/HD-8000k-1080P-cctv16/1.m3u8?IASHttpSessionId=OTT
+CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
+CCTV16,http://183.196.25.171:808/hls/666/index.m3u8
+CCTV16,http://39.135.55.72:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8?
+CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233409/index.m3u8
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport2 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
+Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+MG1,http://39.135.46.102:6610/PLTV/77777777/224/3221225935/index.m3u8?hls
+MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
+0MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225851/index.m3u8?hls
+1MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225849/index.m3u8?hls
+2MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225848/index.m3u8?hls
+3MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225846/index.m3u8?hls
+4MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225845/index.m3u8?hls
+5MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225843/index.m3u8?hls
+6MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225842/index.m3u8?hls
+7MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225840/index.m3u8?hls
+8MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225839/index.m3u8?hls
+9MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225837/index.m3u8?hls
+10MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225834/index.m3u8?hls
+11MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225820/index.m3u8?hls
+12MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225817/index.m3u8?hls
+14MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225811/index.m3u8?hls
+15MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225808/index.m3u8?hls
+16MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225805/index.m3u8?hls
+17MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225802/index.m3u8?hls
+18MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225799/index.m3u8?hls
+19MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225796/index.m3u8?hls
+20MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225793/index.m3u8?hls
+21MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225792/index.m3u8?hls
+22MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225789/index.m3u8?hls
+23MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225786/index.m3u8?hls
+24MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225783/index.m3u8?hls
+25MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225780/index.m3u8?hls
+26MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225777/index.m3u8?hls
+27MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225774/index.m3u8?hls
+28MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225771/index.m3u8?hls
+29MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225769/index.m3u8?hls
+31MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225920/index.m3u8?hls
+32MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225917/index.m3u8?hls
+33MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225914/index.m3u8?hls
+34MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225911/index.m3u8?hls
+35MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225908/index.m3u8?hls
+36MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225905/index.m3u8?hls
+37MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225902/index.m3u8?hls
+38MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225899/index.m3u8?hls
+39MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225896/index.m3u8?hls
+40MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225893/index.m3u8?hls
+41MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225871/index.m3u8?hls
+42MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225868/index.m3u8?hls
+43MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225865/index.m3u8?hls
+44MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225862/index.m3u8?hls
+45MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225861/index.m3u8?hls
+46MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225860/index.m3u8?hls
+47MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225859/index.m3u8?hls
+48MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225858/index.m3u8?hls
+49MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225857/index.m3u8?hls
+50MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225856/index.m3u8?hls
+51MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225855/index.m3u8?hls
+52MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225854/index.m3u8?hls
+53MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225853/index.m3u8?hls
+54MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls
 
 
 
@@ -117,6 +388,201 @@ ESLCSGO,https://live.52sf.ga/huya/eslcsgo
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
+
+🇨🇳｜香港,#genre#
+凤凰中文HD8M,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT2728520220517134732169280
+凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT2805820220429084442034214
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯HD8M,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3052920220429084838036207
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+中國環球電視,http://live.cgtn.com/500/prog_index.m3u8
+亚洲ATV,https://juyunlive.juyun.tv/live/24950198.m3u8
+香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港电台,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+星卫电影,http://data.3g.yy.com/live/hls/29900720/29900720
+TVB J2,http://120.84.96.33:808/hls/86/index.m3u8 
+TVB J2,http://120.84.96.32:808/hls/86/index.m3u8
+TVB J2,https://tx-b2.xsafetech.com/live/11666.m3u8
+TVB J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+TVB J2,https://bf.kanjc.com/11666/11666.m3u8
+TVB 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
+TVB 翡翠台[1920*1080],http://radius.8866.org:880/hls/80/index.m3u8
+时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
+HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+HBO2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰资讯,http://27.47.68.16:808/hls/33/index.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
+凤凰香港,http://27.47.68.71:808/hls/34/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+CNC英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC英文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+iPanda,http://117.148.179.167/PLTV/88888888/224/3221231651/index.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+
+
+🇨🇳｜宝岛,#genre#
+三立台湾,http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立台湾TW,http://59.125.101.187:8501/playlist.m3u8
+三立台湾,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?
+三立都会,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?
+中天新闻,http://59.125.101.187:8703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?
+中天新闻,http://59.125.101.187:8701/http/192.168.77.24:8081/hls/67/809/ch27.m3u8?
+中天综合,http://59.125.101.187:8733/http/192.168.77.24:8081/hls/67/809/ch25.m3u8?
+中天娱乐,http://59.125.101.187:8734/http/192.168.77.24:8081/hls/67/809/ch26.m3u8?
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
+环宇新闻,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+东森新闻,http://59.125.101.187:8702/http/http/hls//ch.m3u8?
+东森新闻,http://59.125.101.187:8702/http/192.168.77.24:8081/hls/63/805/ch10.m3u8?
+东森财经,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/63/805/ch11.m3u8?
+东森幼幼,http://59.125.101.187:8725/http/192.168.77.24:8081/hls/63/805/ch09.m3u8?
+东森超视,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/64/806/ch14.m3u8?
+非凡新闻,http://59.125.101.187:8706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?
+非凡商业,http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8?
+华视新闻,http://59.125.101.187:8704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8?
+亚洲旅游,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8?
+寰宇新闻台,http://59.125.101.187:8709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?
+寰宇新闻台,http://59.125.101.187:8709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?
+华视新闻,http://59.125.101.187:8704/http/192.168.77.24:8081/hls/75/817/ch58.m3u8?
+民视新闻,http://59.125.101.187:8704/http/192.168.77.24:8081/hls/73/815/ch51.m3u8?
+华视,http://59.125.101.187:8713/http/192.168.77.24:8088/hls/72/814/ch48.m3u8?
+民视,http://59.125.101.187:8714/http/192.168.77.24:8081/hls/73/815/ch49.m3u8?
+民视,http://220.134.196.147:9504/hls/73/815/ch49.m3u8
+公视,http://59.125.101.187:8705/http/192.168.77.24:8081/hls/73/815/ch50.m3u8?
+台视,http://59.125.101.187:8702/http/192.168.77.24:8081/hls/72/814/ch46.m3u8?
+壹新闻,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?
+纬来体育,http://59.125.101.187:8763/http/192.168.77.24:8081/hls/67/809/ch28.m3u8?
+纬来体育,http://59.125.101.187:8763/http/192.168.77.24:8066/hls/210/10011/cstv11.m3u8?
+纬来育乐,http://59.125.101.187:8762/http/192.168.77.24:8081/hls/68/810/ch30.m3u8?
+纬来日本,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/69/811/ch34.m3u8?
+纬来日本,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/66/808/ch23.m3u8?
+纬来日本,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?
+纬来戏剧,http://59.125.101.187:8756/http/192.168.77.24:8081/hls/69/811/ch33.m3u8?
+纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/71/813/ch44.m3u8?
+纬来电影,http://59.125.101.187:8710/http/192.168.77.24:8081/hls/69/811/ch35.m3u8?
+纬来综合,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/68/810/ch32.m3u8?
+龙华偶像,http://59.125.101.187:8762/http/192.168.77.24:8066/hls/210/10012/cstv12.m3u8?
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华卡通,http://59.125.101.187:8761/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8?
+龙华电影,http://59.125.101.187:8768/http/192.168.77.24:8066/hls/210/10014/cstv14.m3u8?
+龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+卫视电影GOLD,http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?
+卫视中文,http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?
+卫视电影,http://59.125.101.187:8753/http/192.168.77.24:8081/hls/62/804/ch07.m3u8?
+卫视电影GOLD,http://59.125.101.187:8745/http/192.168.77.24:8081/hls/62/804/ch08.m3u8?
+八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?
+八大一台,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8?
+好莱坞电影,http://59.125.101.187:8754/http/192.168.77.24:8081/hls/74/816/ch55.m3u8?
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+国兴卫视,http://59.125.101.187:8775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?
+东风卫视,http://59.125.101.187:8719/http/192.168.77.24:8081/hls/68/810/ch31.m3u8?
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+霹雳台湾,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/75/817/ch59.m3u8?
+momo亲子台,http://59.125.101.187:8740/http/192.168.77.24:8081/hls/70/812/ch40.m3u8?
+年代MuchTV,http://59.125.101.187:8729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8?
+非凡商业,http://59.125.101.187:8730/http/192.168.77.24:8081/hls/74/816/ch56.m3u8?
+JET综合,http://59.125.101.187:8719/http/192.168.77.24:8081/hls/74/816/ch54.m3u8?
+Baby TV,http://59.125.101.187:8770/http/192.168.77.24:8078/hls/35/80/babytv.m3u8?
+ELEVEN 2,http://59.125.101.187:8768/http/192.168.77.24:8078/hls/26/80/esport2.m3u8?
+博斯运动I,http://59.125.101.187:8764/http/192.168.77.24:8066/hls/210/10018/cstv18.m3u8?
+博斯运动II,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/61/803/ch04.m3u8?
+HBO,http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?
+HBO英文,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+TLC旅游生活,http://59.125.101.187:8774/http/192.168.77.24:8081/hls/70/812/ch38.m3u8?
+imodeTV,https://juyunlive.juyun.tv/live/24950198.m3u8
+CINEMAX,http://59.125.101.187:8761/http/192.168.77.24:8081/hls/71/813/ch42.m3u8?
+AXN,http://59.125.101.187:8759/http/192.168.77.24:8081/hls/71/813/ch43.m3u8?
+Animax,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
+StarWorld,http://59.125.101.187:8761/http/192.168.77.24:8081/hls/61/803/ch02.m3u8?
+CNBC,http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?
+民勤,http://39.134.32.103:6610/270000001111/1110000150/index.m3u8?IASHttpSessionId=OTT
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+亚洲旅游,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8?
+阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+东森电影,http://120.84.96.27:808/hls/32/index.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+无线财经,http://ye23.win/iptv/tvb.php?id=2
+无线财经,http://111.229.84.232/yulin/tvb.php?id=2
+无线LIVE台,http://ye23.win/iptv/tvb.php?id=3
+GOODTV健康HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GOODTV好医生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+GOODTV读书会HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+GOODTV刘三讲古HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+GOODTV旅行HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+
+
+🇨🇳｜澳门,#genre#
+澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+澳视资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳门奥视,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳门资讯,http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+澳门1台HD,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳门2台HD,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门3台HD,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳门微电影HD,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门莲花,http://120.84.96.32:808/hls/24/index.m3u8
+澳视MACAU,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳视卫视,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳门体育,http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+澳视综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳视葡文HD,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+
+
 
 央视,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
@@ -588,7 +1054,8 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-港台频道_2001,#genre#
+
+港台频道,#genre#
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd
 凤凰中文,http://124.238.99.44:808/hls/348/index.m3u8
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
@@ -688,7 +1155,7 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 民視,http://39.135.32.10:6610/000000001000/SD-4000k-576P-qinghaistv/1.m3u8?IASHttpSessionId=OTT?zxinjd
 民視,rtmp://59.124.75.138/sat/tv051
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-港台频道_2001,#genre#
+港台频道,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
@@ -736,6 +1203,82 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
 龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华日韩,http://59.125.98.83:8535/playlist.m3u8
+港台杂类,#genre#
+凤凰卫视·中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰卫视·资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
+凤凰卫视·香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://%67%78%66%72%67%30%30%37%2e%38%38%30%30%2e%6f%72%67:%38%32%38%32/%74%73%66%69%6c%65/%6c%69%76%65/%31%30%36%35%5f%31%2e%6d%33%75%38#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰卫视·电影台,http://%6c%69%76%65%2e%73%63%75%65%63%2e%65%64%75%2e%63%6e:%38%30%38%30/%68%6c%73/%66%68%64%79%2e%6d%33%75%38
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+天映经典,http://%69%70%74%76%2e%74%76%66%69%78%2e%6f%72%67/%68%6c%73/%74%79%6a%64%32%2e%6d%33%75%38#http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+C+·影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+TVB·翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3#http://iptv.tvfix.org/hls/jade.m3u8
+TVB·明珠台,http://%6b%6b%6d%69%78%31%2e%66%33%33%32%32%2e%6e%65%74:%38%32%35/%68%6c%73/%63%68%31/%73%2e%6d%33%75%38#http://iptv.tvfix.org/hls/pearl.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5#http://astream.apk1088.com:18888/channel.php?id=1351_4500&/PLTV/hls.smil.m3u8
+TVB·新闻台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14#http://iptv.tvfix.org/hls/inews.m3u8
+TVB·财经台,http://%6b%6b%6d%69%78%31%2e%66%33%33%32%32%2e%6e%65%74:%38%32%35/%68%6c%73/%63%68%32/%73%2e%6d%33%75%38#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15#http://iptv.tvfix.org/hls/finance.m3u8
+TVB·星河台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH10/10#http://%69%70%74%76%2e%74%76%66%69%78%2e%6f%72%67/%68%6c%73/%74%76%62%78%68%32%2e%6d%33%75%38#http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+TVB·功夫台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH8/8#http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB·J2台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4#http://%35%30%2e%37%2e%37%34%2e%32%39:%38%30%38%30/%68%6c%73/%70%68%30%30%34%35%36/%69%6e%64%65%78%2e%6d%33%75%38#http://iptv.tvfix.org/hls/j2.m3u8
+HBO·综合,http://50.7.61.148:30080/Entry/hbo#http://%35%30%2e%37%2e%36%31%2e%31%34%38:%33%30%30%38%30/%45%6e%74%72%79/%68%62%6f#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH77/77#http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+FOX·新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NHK·综合,https://nhk1.mov3.co/hls/nhk.m3u8
+TBS ·综合,https://tbs.mov3.co/hls/tbs.m3u8
+V I U·综合,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16#http://%6b%6b%6d%69%78%31%2e%66%33%33%32%32%2e%6e%65%74:%37%36%32/%68%6c%73/%63%68%31/%73%2e%6d%33%75%38#http://iptv.tvfix.org/hls/viutv.m3u8
+中视,rtmp://59.124.75.157:1935/sat/tv091#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8#http://50.7.61.148:30080/Entry/ctv#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH118/118
+华视,rtmp://59.124.75.157:1935/sat/tv111#http://50.7.61.147:30080/Entry/cts#http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+台视,rtmp://59.124.75.157:1935/sat/tv071#http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8#http://50.7.61.148:30080/Entry/ttv#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH117/117
+民视,http://50.7.61.147:30080/Entry/ftv#rtmp://59.124.75.157:1935/sat/tv051#http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8#http://live.hodtv.tv/gttv.php?id=13669&cid=13822
+公视,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH122/122
+中天综合,http://live.hodtv.tv/gttv.php?id=14187&cid=14347#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH115/115
+中天娱乐,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH114/114
+中天新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28#http://211.23.114.106:8541/hls/78/80/ch63max.m3u8#http://iptv.tvfix.org/hls/ztxw.m3u8
+中视新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH25/25
+莲花卫视,http://nettvpro.live/hls/lotustv.php
+TVBS·综合台,http://live.hodtv.tv/gttv.php?id=15131&cid=15294#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH33/33#http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+TVBS·新闻台,rtmp://59.124.75.157:1935/sat/tv551#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH32/32#http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TVBS·欢乐台,rtmp://59.124.75.157:1935/sat/tv421#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH145/145#http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
+环宇新闻,http://fuck.ke22.aihost69.top:80/play/63.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH27/27#http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8#http://live.hodtv.tv/gttv.php?id=14170&cid=14330
+有线新闻,https://p2.weizan.cn:443/1646497941/276681756708868241/live.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
+有线18台,rtmp://59.124.75.157:1935/sat/hk041
+日奔富士,https://fujitv1.mov3.co/hls/fujitv.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+纬来育乐,rtmp://59.124.75.157:1935/sat/tv701
+纬来体育,rtmp://59.124.75.157:1935/sat/tv721
+纬来日本,rtmp://59.124.75.157:1935/sat/tv771#http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+纬来电影,http://211.23.114.106:8555/http/116.50.42.19:8081/hls/69/811/ch35.m3u8#http://50.7.61.148:30080/Entry/vlmovie
+华丽翡翠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6#http://iptv.tvfix.org/hls/jadenhk.m3u8
+广东翡翠台,http://%31%30%33%2e%34%35%2e%32%35%30%2e%36%34:%38%30/%67%75%64%6f%75%35%2e%70%68%70?%69%64=%31%33%35%30%5f%31%35%30%30#http://astream.apk1088.com:18888/channel.php?id=1350_4500&/PLTV/hls.smil.m3u8
+原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+探索频道,http://%6c%69%76%65%2e%73%63%75%65%63%2e%65%64%75%2e%63%6e:%38%30%38%30/%68%6c%73/%64%69%73%63%6f%76%65%72%79%2e%6d%33%75%38#http://%69%70%74%76%2e%74%76%66%69%78%2e%6f%72%67/%68%6c%73/%64%69%73%63%6f%76%65%72%79%2e%6d%33%75%38
+国家地理,http://%6c%69%76%65%2e%73%63%75%65%63%2e%65%64%75%2e%63%6e:%38%30%38%30/%68%6c%73/%6e%61%74%6c%67%65%6f%2e%6d%33%75%38#http://%69%70%74%76%2e%74%76%66%69%78%2e%6f%72%67/%68%6c%73/%6e%61%74%6c%67%65%6f%2e%6d%33%75%38#http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH100/100
+动物星球,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH102/102#http://iptv.tvfix.org/hls/animal.m3u8#http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
+美食星球,p8p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
+亚洲旅游,http://50.7.61.147:30080/Entry/asiatravel#http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH108/108#http://live.hodtv.tv/gttv.php?id=11462&cid=11462
+俄罗斯一台,https://a3569458063-s26881.cdn.ngenix.net/hls2/russia_hd/playlist_4.m3u8
+东森财经,rtmp://59.124.75.157/sat/tv571
+东森超视,rtmp://59.124.75.157/sat/tv331#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH133/133#http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+东森电影,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH83/83#p8p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+美亚电影台,http://iptv.tvfix.org/hls/mydy.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH89/89
+卫视电影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8#http://%35%30%2e%37%2e%36%31%2e%31%34%39:%33%30%30%38%30/%45%6e%74%72%79/%73%74%61%72%6d%6f%76%69%65
+卫视中文台,http://%35%30%2e%37%2e%36%31%2e%31%34%38:%33%30%30%38%30/%45%6e%74%72%79/%73%74%61%72%63%68%69%6e%65%73%65#http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH88/88
+索尼动漫,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8#http://iptv.tvfix.org/hls/animax.m3u8
+惊悚频道,http://iptv.tvfix.org/hls/thrill.m3u8
+陌陌综合,rtmp://59.124.75.138/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+非凡新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH37/37#http://50.7.61.147:30080/Entry/ubn#http://live.hodtv.tv/gttv.php?id=11327&cid=11345
+龙华戏剧,http://live.hodtv.tv/gttv.php?id=11461&cid=11465#http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龙华电影,http://live.hodtv.tv/gttv.php?id=13187&cid=13339#http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
+龙翔电影,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH87/87#p8p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://50.7.61.148:30080/Entry/settw-#http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH130/130
+靖洋戏剧台,p8p://fccs.123178.top:9906/60441bcb000e6baf001f77240fd6acd8.ts
+靖天电影台,p8p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+星空国际,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
+星空电影,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+博斯网球,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH75/75
+爱尔达体育一,rtmp://59.124.75.157/sat/md011#http://50.7.61.148:30080/Entry/eltasport1#rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH68/68
+爱尔达体育二,http://50.7.61.148:30080/Entry/eltasport2
+ELEVEN1,rtmp://59.124.75.157/sat/tv731
+ELEVEN2,rtmp://59.124.75.157/sat/tv741
 虎牙影视,#genre#
 音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
 女神上海,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
@@ -4384,693 +4927,3 @@ APP业务员私自接单酒店色诱客戶打炮,https://v1.goulexizuo.com/20201
 淫妻诱惑色堂弟,https://v1.goulexizuo.com/20210312/UrneXhkY/2000kb/hls/index.m3u8
 送文件也送人老板请签字,https://v1.goulexizuo.com/20210303/2VSPyW2A/2000kb/hls/index.m3u8
 爲愛三人行,https://v1.goulexizuo.com/20210303/41nZ8XUQ/2000kb/hls/index.m3u8
-光🦌7_2001,#genre#
-玩弄大哥的女僕,https://v4.jiufanrj.com/20220416/BcKD2ibR/2000kb/hls/index.m3u8
-寂寞小媽迷姦繼子,https://v4.jiufanrj.com/20220416/zwwtBe9Q/2000kb/hls/index.m3u8
-招妓,https://v4.jiufanrj.com/20220416/uRUB73ap/2000kb/hls/index.m3u8
-女教師的精液面膜,https://v4.jiufanrj.com/20220416/c3BwN73z/2000kb/hls/index.m3u8
-論文老師,https://v4.jiufanrj.com/20220416/8n8Z0A9X/2000kb/hls/index.m3u8
-墮落的女學生,https://v4.jiufanrj.com/20220416/qbI3s2Ph/2000kb/hls/index.m3u8
-後裔射嫦娥,https://v4.jiufanrj.com/20220416/uEp0xf5Y/2000kb/hls/index.m3u8
-神屌俠侶,https://v4.jiufanrj.com/20220416/bWvyFVnV/2000kb/hls/index.m3u8
-淫笑江湖,https://v4.jiufanrj.com/20220416/gelksu4I/2000kb/hls/index.m3u8
-愧疚的哥哥,https://v4.jiufanrj.com/20220416/cCfVpvnb/2000kb/hls/index.m3u8
-為了討好老公和鄰居學習SM,https://v4.jiufanrj.com/20220416/wkoRueWI/2000kb/hls/index.m3u8
-愧疚的哥哥,https://v4.jiufanrj.com/20220416/E10tIrwT/2000kb/hls/index.m3u8
-雙子座命運第一期,https://v4.jiufanrj.com/20220416/vJd7Q1fR/2000kb/hls/index.m3u8
-愧疚的哥哥,https://v4.jiufanrj.com/20220416/4E8VPiJO/2000kb/hls/index.m3u8
-上門嫖妓,https://v4.jiufanrj.com/20220416/IkQO4OGz/2000kb/hls/index.m3u8
-胜利的预感,https://v1.goulexizuo.com/20210612/CxhRoqtH/2000kb/hls/index.m3u8
-欲火焚身的淫荡夫妻,https://v1.goulexizuo.com/20210609/0nWgJ3Pa/2000kb/hls/index.m3u8
-我待你如亲兄弟你却上了我老婆,https://v1.goulexizuo.com/20210603/YfIHjYlx/2000kb/hls/index.m3u8
-为了钱干给老公看,https://v1.goulexizuo.com/20210522/lZvPgLYP/2000kb/hls/index.m3u8
-性欲旺盛的足球美少女,https://v1.goulexizuo.com/20210517/wVWKNBid/2000kb/hls/index.m3u8
-女帝与路飞的午餐大战,https://v1.goulexizuo.com/20210517/vJLpLxAt/2000kb/hls/index.m3u8
-女外星人与中国男人的摩擦运动,https://v1.goulexizuo.com/20210512/uGltzWN9/2000kb/hls/index.m3u8
-为赢比赛千金小姐奉献身体,https://v1.goulexizuo.com/20210505/nHLdV1ba/2000kb/hls/index.m3u8
-学长的爱之女友的报复,https://v1.goulexizuo.com/20210426/VIGxHFGg/2000kb/hls/index.m3u8
-午夜迷情与画中人的缠绵悱恻,https://v1.goulexizuo.com/20210426/l98eqzpg/2000kb/hls/index.m3u8
-版  无能前辈的阴茎大肉棒,https://v1.goulexizuo.com/20210419/xkRNknMz/2000kb/hls/index.m3u8
-废柴兄长凌辱叛逆妹妹,https://v1.goulexizuo.com/20210410/yBNrg58u/2000kb/hls/index.m3u8
-懦弱男友弃爱求生,https://v1.goulexizuo.com/20210406/Hq3FeM6Y/2000kb/hls/index.m3u8
-一个中国富商与性治疗师,https://v1.goulexizuo.com/20210328/Mn5m3tuD/2000kb/hls/index.m3u8
-绿茶闺蜜,https://v1.goulexizuo.com/20210328/lGMOaWWr/2000kb/hls/index.m3u8
-出轨少妇,https://v1.goulexizuo.com/20210328/0Ld1KJf5/2000kb/hls/index.m3u8
-V 蜜桃成熟时之兄妹蕉谈,https://v1.goulexizuo.com/20210328/4aWixy8A/2000kb/hls/index.m3u8
-光🦌8_2001,#genre#
-强奸蛋糕店年轻老板娘,https://v4.jiufanrj.com/20220418/fyhRoNtV/2000kb/hls/index.m3u8
-女子凌辱学院奈奈篇,https://v4.jiufanrj.com/20220418/m3SUYQ5o/2000kb/hls/index.m3u8
-舔狗的逆襲,https://v4.jiufanrj.com/20220416/DX0xXDKK/2000kb/hls/index.m3u8
-微信约到混血辣妹疯狂干炮,https://v4.jiufanrj.com/20220416/Uph0EEvs/2000kb/hls/index.m3u8
-酒店水电工强上性感少女,https://v4.jiufanrj.com/20220416/5RpmvN8C/2000kb/hls/index.m3u8
-精东按摩院,https://v4.jiufanrj.com/20220416/qq6d6Rp1/2000kb/hls/index.m3u8
-街边搭讪,https://v4.jiufanrj.com/20220409/cqVI96vV/2000kb/hls/index.m3u8
-特殊门诊爆操两个女医生,https://v4.jiufanrj.com/20220404/syFTVfYw/2000kb/hls/index.m3u8
-货车司机强上年轻小姨子,https://v4.jiufanrj.com/20220404/nGKTXP6i/2000kb/hls/index.m3u8
-和健身教练激情性爱,https://v4.jiufanrj.com/20220404/cDtZmyoP/2000kb/hls/index.m3u8
-波霸总监是我妹,https://v4.jiufanrj.com/20220404/tTld0dgo/2000kb/hls/index.m3u8
-粘人的妹妹无套硬上亲哥,https://v4.jiufanrj.com/20220401/OGJQVWVb/2000kb/hls/index.m3u8
-被绿父亲怒操叛逆女儿,https://v4.jiufanrj.com/20220401/Qo09ronB/2000kb/hls/index.m3u8
-寂寞小妈强上爱伤儿子,https://v4.jiufanrj.com/20220331/auFoxXKe/2000kb/hls/index.m3u8
-嘘!禁止想象,https://v4.jiufanrj.com/20220330/yBSSzDbm/2000kb/hls/index.m3u8
-风骚小姨被人下药却意外让我得逞,https://v4.jiufanrj.com/20220330/Phzut87q/2000kb/hls/index.m3u8
-上门爆操基金经理,https://v4.jiufanrj.com/20220326/rnuFyOP9/2000kb/hls/index.m3u8
-我的炮友是后妈,https://v4.jiufanrj.com/20220326/JiUKmfLc/2000kb/hls/index.m3u8
-空调修理工强奸清高少妇,https://v4.jiufanrj.com/20220324/wj9YgByE/2000kb/hls/index.m3u8
-憨厚老哥被勾引狂操纵欲表妹,https://v4.jiufanrj.com/20220321/HAlE0lFk/2000kb/hls/index.m3u8
-妹妹的性教育,https://v4.jiufanrj.com/20220321/eX4abKdK/2000kb/hls/index.m3u8
-纵欲小姑强上快递员到高潮,https://v4.jiufanrj.com/20220319/jLoHYYem/2000kb/hls/index.m3u8
-我的老公在乌克兰,https://v4.jiufanrj.com/20220314/din1g4TA/2000kb/hls/index.m3u8
-闷骚人妻欲求不满2找来好兄弟解决需求,https://v4.jiufanrj.com/20220314/eVu8K23M/2000kb/hls/index.m3u8
-X系列之锁,https://v4.jiufanrj.com/20220307/YBSokGTk/2000kb/hls/index.m3u8
-系列之粉的第七章,https://v4.jiufanrj.com/20220307/wAQBcl2t/2000kb/hls/index.m3u8
-头搭讪岛国美女,https://v4.jiufanrj.com/20220302/xDcdGTDX/2000kb/hls/index.m3u8
-寂寞小姑的课后辅导,https://v4.jiufanrj.com/20220216/R8oQM3s5/2000kb/hls/index.m3u8
-见色起意继子迷奸后妈,https://v4.jiufanrj.com/20220212/S1liJB4S/2000kb/hls/index.m3u8
-玩弄女主播,https://v2.iaxaa.com/20220201/ulT4iFDk/2000kb/hls/index.m3u8
-我唾弃你的坟墓,https://v2.iaxaa.com/20220117/tXAmdqAs/2000kb/hls/index.m3u8
-淫乱一家人,https://v2.iaxaa.com/20220109/RCCgqIrx/2000kb/hls/index.m3u8
-权利的游戏,https://v2.iaxaa.com/20220102/9itetSvY/2000kb/hls/index.m3u8
-黑道大姐心2,https://v2.iaxaa.com/20211219/i4VMtebB/2000kb/hls/index.m3u8
-密友第三十六集,https://v2.iaxaa.com/20211219/jg5PKzo8/2000kb/hls/index.m3u8
-密友第三十五集,https://v2.iaxaa.com/20211219/KVw1M3RJ/2000kb/hls/index.m3u8
-密友 第一季 第三十七集,https://v2.iaxaa.com/20211219/XGOeiMoJ/2000kb/hls/index.m3u8
-空姐阿莲的合租生活,https://v2.iaxaa.com/20211219/f13imbxQ/2000kb/hls/index.m3u8
-逆袭的保安,https://v2.iaxaa.com/20211219/wbfAoqjM/2000kb/hls/index.m3u8
-疫情无情人间有情,https://v2.iaxaa.com/20211227/EjHyMBrH/2000kb/hls/index.m3u8
-密友第三十八集,https://v2.iaxaa.com/20211224/eP8jIPhT/2000kb/hls/index.m3u8
-密友第三十九集,https://v2.iaxaa.com/20211224/QDPmgWDv/2000kb/hls/index.m3u8
-萬萬沒想到之魔法少女,https://v2.iaxaa.com/20211224/ebJjlrXq/2000kb/hls/index.m3u8
-密友第三十二集,https://v2.iaxaa.com/20211212/Nh0zQwwW/2000kb/hls/index.m3u8
-屌丝逆袭之农民工凌辱反差婊,https://v2.iaxaa.com/20211212/p7zo4rBq/2000kb/hls/index.m3u8
-密友第三十四集,https://v2.iaxaa.com/20211212/cM6oupqE/2000kb/hls/index.m3u8
-吴三桂李自成采花陈圆圆,https://v2.iaxaa.com/20211212/cOF66AWH/2000kb/hls/index.m3u8
-密友第三十三集,https://v2.iaxaa.com/20211212/763OxOnt/2000kb/hls/index.m3u8
-密友第三十一集,https://v2.iaxaa.com/20211201/taZhutUi/2000kb/hls/index.m3u8
-斗罗大陆,https://v2.iaxaa.com/20211201/mpxfkVwn/2000kb/hls/index.m3u8
-密友第二十九集,https://v2.iaxaa.com/20211127/PDNXJn9w/2000kb/hls/index.m3u8
-我爱约炮,https://v2.iaxaa.com/20211127/VGYqGm3A/2000kb/hls/index.m3u8
-密友 第一季 第三十集,https://v2.iaxaa.com/20211127/QqJGeBRf/2000kb/hls/index.m3u8
-密友第二十七集,https://v2.iaxaa.com/20211122/oZv29FsM/2000kb/hls/index.m3u8
-JK萌妹爱家教,https://v2.iaxaa.com/20211122/s9fHDQhU/2000kb/hls/index.m3u8
-密友第二十八集,https://v2.iaxaa.com/20211122/uWLWwmzk/2000kb/hls/index.m3u8
-吸精九尾狐家族,https://v2.iaxaa.com/20211122/i3teO1o3/2000kb/hls/index.m3u8
-颅内高潮,https://v2.iaxaa.com/20211120/8ILJ3ipT/2000kb/hls/index.m3u8
-密友第二十六集,https://v2.iaxaa.com/20211120/o8mDDesM/2000kb/hls/index.m3u8
-闷骚人妻欲求不满,https://v2.iaxaa.com/20211116/tScmlNcW/2000kb/hls/index.m3u8
-密友第二十五集,https://v2.iaxaa.com/20211116/sP6DQm9Y/2000kb/hls/index.m3u8
-密友第二十三集,https://v2.iaxaa.com/20211113/YmPU9Hi6/2000kb/hls/index.m3u8
-我是绿帽奴,https://v2.iaxaa.com/20211113/rmdrTJBJ/2000kb/hls/index.m3u8
-密友 第一季 第二十四集,https://v2.iaxaa.com/20211113/q6RPmPp8/2000kb/hls/index.m3u8
-黑道大姐心,https://v2.iaxaa.com/20211113/yrFgSi71/2000kb/hls/index.m3u8
-密友第二十一集,https://v2.iaxaa.com/20211108/F8OVoGKN/2000kb/hls/index.m3u8
-密友第二十二集,https://v2.iaxaa.com/20211108/tdOmWRcm/2000kb/hls/index.m3u8
-密友第十七集,https://v2.iaxaa.com/20211031/4cTLTyaJ/2000kb/hls/index.m3u8
-密友第十八集,https://v2.iaxaa.com/20211031/dgNnfKN4/2000kb/hls/index.m3u8
-密友第十九集,https://v2.iaxaa.com/20211031/2r1BldGe/2000kb/hls/index.m3u8
-密友第十六集,https://v2.iaxaa.com/20211029/P9GSWJ7s/2000kb/hls/index.m3u8
-密友第十五集,https://v2.iaxaa.com/20211025/6rOuE7Cb/2000kb/hls/index.m3u8
-密友第十四集,https://v2.iaxaa.com/20211025/3H9estmx/2000kb/hls/index.m3u8
-密友第一集,https://v2.iaxaa.com/20211029/sWOmkzXx/2000kb/hls/index.m3u8
-密友第二集,https://v2.iaxaa.com/20211029/6RP5mLTi/2000kb/hls/index.m3u8
-密友第三集,https://v2.iaxaa.com/20211029/RIqvV1rQ/2000kb/hls/index.m3u8
-密友第四集,https://v2.iaxaa.com/20211029/I1pjuibB/2000kb/hls/index.m3u8
-密友第五集,https://v2.iaxaa.com/20211029/TqdVr1s8/2000kb/hls/index.m3u8
-密友第六集,https://v2.iaxaa.com/20211029/39uURXlF/2000kb/hls/index.m3u8
-密友第七集,https://v2.iaxaa.com/20211029/cDKT1k7k/2000kb/hls/index.m3u8
-密友第八集,https://v2.iaxaa.com/20211029/CrVEyrVn/2000kb/hls/index.m3u8
-密友第九集,https://v2.iaxaa.com/20211029/b22AckSd/2000kb/hls/index.m3u8
-密友第二十集,https://v2.iaxaa.com/20211106/9Jd8qvD0/2000kb/hls/index.m3u8
-美丽的继母,https://v2.iaxaa.com/20211106/Yg6zCgJS/2000kb/hls/index.m3u8
-友第十集,https://v2.iaxaa.com/20211019/Nc5zNDue/2000kb/hls/index.m3u8
-密友第十一集,https://v2.iaxaa.com/20211019/FFaNKvjB/2000kb/hls/index.m3u8
-错花轿嫁对郎（下）,https://v2.iaxaa.com/20211019/jufQPER5/2000kb/hls/index.m3u8
-密友第十二集,https://v2.iaxaa.com/20211019/F7za6soX/2000kb/hls/index.m3u8
-赤裸特工,https://v2.iaxaa.com/20211019/A1Adml6t/2000kb/hls/index.m3u8
-密友第十三集,https://v2.iaxaa.com/20211019/oGAzZqsI/2000kb/hls/index.m3u8
-强上学生的姐姐,https://v2.iaxaa.com/20211003/3pe5hxSu/2000kb/hls/index.m3u8
-万万没想到之后白蛇传,https://v2.iaxaa.com/20211003/XhbHr5Dj/2000kb/hls/index.m3u8
-健身性爱,https://v2.iaxaa.com/20210929/GXT9bm3g/2000kb/hls/index.m3u8
-东北往事之白虎,https://v2.iaxaa.com/20210929/wWc24T3k/2000kb/hls/index.m3u8
-上错花轿嫁对郎,https://v2.iaxaa.com/20210929/A4FmCPcl/2000kb/hls/index.m3u8
-东北往事之仙人跳,https://v2.iaxaa.com/20210922/YJZzjU6h/2000kb/hls/index.m3u8
-东北往事之性爱风云,https://v2.iaxaa.com/20210918/D4BnkQC5/2000kb/hls/index.m3u8
-兄弟的老婆之水中情,https://v2.iaxaa.com/20210915/O7m1V2rI/2000kb/hls/index.m3u8
-百万交易,https://v2.iaxaa.com/20210914/S9m6dEkO/2000kb/hls/index.m3u8
-我和我的绿茶女友,https://v2.iaxaa.com/20210910/9mxOfr6Y/2000kb/hls/index.m3u8
-邻家母女之隔壁张叔给我破处,https://v2.iaxaa.com/20210910/DKY8vcS3/2000kb/hls/index.m3u8
-黑道风云之黑吃黑,https://v2.iaxaa.com/20210828/1GKbZlP5/2000kb/hls/index.m3u8
-我的闺蜜是个GAY,https://v1.goulexizuo.com/20210821/ooplmgZM/2000kb/hls/index.m3u8
-人类高质量女性相亲记,https://v1.goulexizuo.com/20210818/Rl9l9ZoD/2000kb/hls/index.m3u8
-迷奸,https://v1.goulexizuo.com/20210816/sQOChexC/2000kb/hls/index.m3u8
-轮奸女上司,https://v1.goulexizuo.com/20210815/diFG69TY/2000kb/hls/index.m3u8
-我的乞丐男友,https://v1.goulexizuo.com/20210813/bhUTrbc0/2000kb/hls/index.m3u8
-人类高质量男性相亲记,https://v1.goulexizuo.com/20210813/3cPbX1p2/2000kb/hls/index.m3u8
-少妇为救老公色诱王局长,https://v1.goulexizuo.com/20210813/ix9TLQd9/2000kb/hls/index.m3u8
-我的老师为何这么好看,https://v1.goulexizuo.com/20210809/HqAGCetg/2000kb/hls/index.m3u8
-原始社会好,https://v1.goulexizuo.com/20210809/swtxo3aV/2000kb/hls/index.m3u8
-妈妈咪呀,https://v1.goulexizuo.com/20210804/NoIb2lKg/2000kb/hls/index.m3u8
-诱惑ID,https://v1.goulexizuo.com/20210801/qGDufJ3n/2000kb/hls/index.m3u8
-当代女子图鉴,https://v1.goulexizuo.com/20210729/7K02zzUJ/2000kb/hls/index.m3u8
-我不是赌神,https://v1.goulexizuo.com/20210727/Itl9dS3s/2000kb/hls/index.m3u8
-找替身,https://v1.goulexizuo.com/20210719/zImiHRLj/2000kb/hls/index.m3u8
-爸爸谢谢你收养我,https://v1.goulexizuo.com/20210713/Cfh4VgQ9/2000kb/hls/index.m3u8
-轮回酒店,https://v1.goulexizuo.com/20210704/rQYgNt2v/2000kb/hls/index.m3u8
-倚天屠龙记,https://v1.goulexizuo.com/20210626/zyEkaStp/2000kb/hls/index.m3u8
-我的学生时代,https://v1.goulexizuo.com/20210621/wNzJ96DE/2000kb/hls/index.m3u8
-借种,https://v1.goulexizuo.com/20210615/cE4SXemO/2000kb/hls/index.m3u8
-版  天龙八部之逍遥圣女,https://v1.goulexizuo.com/20210610/OqNJnT6D/2000kb/hls/index.m3u8
-出轨的妻子,https://v1.goulexizuo.com/20210605/9hX4AGlA/2000kb/hls/index.m3u8
-性球大战,https://v1.goulexizuo.com/20210531/04JdEPgl/2000kb/hls/index.m3u8
-草莓味兒邻家小妹,https://v1.goulexizuo.com/20210528/OVYVt91b/2000kb/hls/index.m3u8
-女间谍,https://v1.goulexizuo.com/20210524/4srNE68n/2000kb/hls/index.m3u8
-之神雕侠侣,https://v1.goulexizuo.com/20210521/rMQFZPiD/2000kb/hls/index.m3u8
-西舔取精之三操白骨精,https://v1.goulexizuo.com/20210521/hKINxdC5/2000kb/hls/index.m3u8
-性尸走肉,https://v1.goulexizuo.com/20210517/LDzX4yN6/2000kb/hls/index.m3u8
-版  西舔取精之女儿国,https://v1.goulexizuo.com/20210515/SEtFvUDw/2000kb/hls/index.m3u8
-版  叛逆学生,https://v1.goulexizuo.com/20210512/3UyweKiw/2000kb/hls/index.m3u8
-版  过户 为了婚房委曲求全 善良妹子犒劳单身哥哥,https://v1.goulexizuo.com/20210509/buSkxco6/2000kb/hls/index.m3u8
-众筹花魁三重帝王梦,https://v1.goulexizuo.com/20210419/kg23aM7B/2000kb/hls/index.m3u8
-版 色诱技师,https://v1.goulexizuo.com/20210416/lWSV3p9Z/2000kb/hls/index.m3u8
-度特典,https://v1.goulexizuo.com/20210416/HsesFnVB/2000kb/hls/index.m3u8
-欠债还性,https://v1.goulexizuo.com/20210415/ykWV7EQT/2000kb/hls/index.m3u8
-葫芦娃蛇精总洞源,https://v1.goulexizuo.com/20210413/Vt3qxKAS/2000kb/hls/index.m3u8
-教你如何喚醒植物人 姐夫車禍昏迷,https://v1.goulexizuo.com/20210411/DQWECP7P/2000kb/hls/index.m3u8
-那一夜 那个女孩上了我老婆的床,https://v1.goulexizuo.com/20210406/c8lkGwFV/2000kb/hls/index.m3u8
-房东与房客,https://v1.goulexizuo.com/20210406/Hryl3Vrl/2000kb/hls/index.m3u8
-版 JD015 销售美女的成功之路,https://v1.goulexizuo.com/20210328/Yw8yLv1z/2000kb/hls/index.m3u8
-那些年一起追过的女孩,https://v1.goulexizuo.com/20210227/f5zmUULD/2000kb/hls/index.m3u8
-爸爸的爱,https://v1.goulexizuo.com/20210227/PA6DGgRF/2000kb/hls/index.m3u8
-屌丝逆袭之民国传奇,https://v1.goulexizuo.com/20210227/P2VbmZXu/2000kb/hls/index.m3u8
-精东新闻播报台玩弄巨乳女主播,https://v1.goulexizuo.com/20210219/mV4qBgZu/2000kb/hls/index.m3u8
-光🦌9_2001,#genre#
-空虚女婿强上风韵岳母,https://v4.jiufanrj.com/20220418/YEolFAMq/2000kb/hls/index.m3u8
-女老师欠钱不还怒操体罚,https://v4.jiufanrj.com/20220418/mW8CIRAJ/2000kb/hls/index.m3u8
-幻想爸爸的淫蕩女兒,https://v4.jiufanrj.com/20220416/r7X2y3HF/2000kb/hls/index.m3u8
-欲罷不能忍不住強上小姑,https://v4.jiufanrj.com/20220416/oLbfIJ77/2000kb/hls/index.m3u8
-情色網購初體驗,https://v4.jiufanrj.com/20220416/V7wtFyNe/2000kb/hls/index.m3u8
-強欲岳母覬覦大屌女婿,https://v4.jiufanrj.com/20220416/iPyIduLI/2000kb/hls/index.m3u8
-老公酒醉淫妻下藥強上朋友,https://v4.jiufanrj.com/20220416/Al7iRNlU/2000kb/hls/index.m3u8
-女房東偷窺被發現反被怒操,https://v4.jiufanrj.com/20220416/7AHb0kHr/2000kb/hls/index.m3u8
-姐姐的秘密跟親弟亂倫止癢,https://v4.jiufanrj.com/20220416/8eeHl6Bt/2000kb/hls/index.m3u8
-出差借宿小姨子亂倫姐夫,https://v4.jiufanrj.com/20220416/UUvXS0H2/2000kb/hls/index.m3u8
-為了夢想把女兒送給兄弟無套操,https://v4.jiufanrj.com/20220416/Lx4mAllf/2000kb/hls/index.m3u8
-无能哥哥带亲弟爆操老婆,https://v4.jiufanrj.com/20220416/fpcBaJBM/2000kb/hls/index.m3u8
-覬覦財富下藥無套亂倫親哥哥,https://v4.jiufanrj.com/20220416/g6XWzJXj/2000kb/hls/index.m3u8
-淫蕩小姨子慾火無套強上親姊夫,https://v4.jiufanrj.com/20220416/ryvqx0Fm/2000kb/hls/index.m3u8
-长发女护士被跟踪轮奸,https://v4.jiufanrj.com/20220416/DhhtuhnW/2000kb/hls/index.m3u8
-亲兄弟接力轮操小表妹,https://v4.jiufanrj.com/20220416/1Tpaen04/2000kb/hls/index.m3u8
-美团外卖员无套猛操有钱少妇,https://v4.jiufanrj.com/20220416/a764fAbA/2000kb/hls/index.m3u8
-强欲寡母偷上亲儿止痒,https://v4.jiufanrj.com/20220416/cMR5pr76/2000kb/hls/index.m3u8
-禽兽表哥跟踪下药搞定漂亮表妹,https://v4.jiufanrj.com/20220416/BDCisGw6/2000kb/hls/index.m3u8
-公公用硬屌爆操逆媳,https://v4.jiufanrj.com/20220416/tzIVeewu/2000kb/hls/index.m3u8
-發情姊姊被親弟同學爆操,https://v4.jiufanrj.com/20220409/ntpQZeoM/2000kb/hls/index.m3u8
-纵欲继父无套强上生病女儿,https://v4.jiufanrj.com/20220409/IKGMLR2s/2000kb/hls/index.m3u8
-亲兄弟一起干嫩模3P接力赛,https://v4.jiufanrj.com/20220409/Xwz6gBhb/2000kb/hls/index.m3u8
-哥哥无套强上不爱穿胸罩的亲妹,https://v4.jiufanrj.com/20220409/RbsmbxN8/2000kb/hls/index.m3u8
-美女第一次上门服务被操哭,https://v4.jiufanrj.com/20220409/Ig7B6YA0/2000kb/hls/index.m3u8
-爆操拜金女保险销售,https://v4.jiufanrj.com/20220409/oWlhtle5/2000kb/hls/index.m3u8
-1,https://v4.jiufanrj.com/20220406/NHtg4eyd/2000kb/hls/index.m3u8
-2,https://v4.jiufanrj.com/20220406/YqlhV9cE/2000kb/hls/index.m3u8
-女助教性愛成癮,https://v4.jiufanrj.com/20220404/sp8W23gs/2000kb/hls/index.m3u8
-酒後亂性小叔亂倫親嫂子,https://v4.jiufanrj.com/20220404/vrsBYYXn/2000kb/hls/index.m3u8
-绑架迷奸怒操女主管,https://v4.jiufanrj.com/20220404/Ho3CLVbx/2000kb/hls/index.m3u8
-没忍住竟和同学下药迷奸嫂子,https://v4.jiufanrj.com/20220404/s4Bq3fsC/2000kb/hls/index.m3u8
-性理女医师的勃起治疗,https://v4.jiufanrj.com/20220401/skMf3HLX/2000kb/hls/index.m3u8
-无套爆操家家访儿子的班主任,https://v4.jiufanrj.com/20220401/BKYp7dwI/2000kb/hls/index.m3u8
-強欲小姑幫親侄破處T,https://v4.jiufanrj.com/20220330/MJe3P8JC/2000kb/hls/index.m3u8
-竟给自已戴绿帽叫男模一起操妻子,https://v4.jiufanrj.com/20220330/pc1UgHsb/2000kb/hls/index.m3u8
-欲罢不能的骚货,https://v4.jiufanrj.com/20220326/UjVx4MRU/2000kb/hls/index.m3u8
-被民宿女老板下春药激情性爱,https://v4.jiufanrj.com/20220326/z0GpUyXC/2000kb/hls/index.m3u8
-裸贷表妹跟表哥借钱被狠操,https://v4.jiufanrj.com/20220326/ZngWvohh/2000kb/hls/index.m3u8
-帮忙补习的风韵小姨被我强上了,https://v4.jiufanrj.com/20220326/aRGnxoT2/2000kb/hls/index.m3u8
-一日女友 强上隔壁人妻 专业修水龙头 开档黑丝极品白虎 后入蜜桃臀爆射尤物,https://v4.jiufanrj.com/20220324/JeVD2n00/2000kb/hls/index.m3u8
-风骚女秘书为求上位无套睡了老板,https://v4.jiufanrj.com/20220324/LdmBLfWU/2000kb/hls/index.m3u8
-街头清纯少妇醉酒带回家固定强奸,https://v4.jiufanrj.com/20220324/UDoT2Txc/2000kb/hls/index.m3u8
-性感嫂嫂强上小叔被操得起不来,https://v4.jiufanrj.com/20220324/doJrF82U/2000kb/hls/index.m3u8
-绿帽丈夫连同新弟怒操出轨老婆,https://v4.jiufanrj.com/20220322/d9Cm4dgL/2000kb/hls/index.m3u8
-少妇房东色诱租客被操哭,https://v4.jiufanrj.com/20220322/XJAZjgbv/2000kb/hls/index.m3u8
-变态小弟要求亲哥嫂嫂当面做爱,https://v4.jiufanrj.com/20220322/CcXsBAdw/2000kb/hls/index.m3u8
-姐姐的乱伦幻想,https://v4.jiufanrj.com/20220319/goNJQpcV/2000kb/hls/index.m3u8
-微信约炮大奶肉色丝袜女教师,https://v4.jiufanrj.com/20220319/VYUg1FvD/2000kb/hls/index.m3u8
-色欲表妹求表哥肉棒指导功课,https://v4.jiufanrj.com/20220319/4IjmGWes/2000kb/hls/index.m3u8
-房产女实习生淫求成交被爆操,https://v4.jiufanrj.com/20220319/k4VoCa8z/2000kb/hls/index.m3u8
-拜金小妹用身体报答亲哥,https://v4.jiufanrj.com/20220319/OdkthbzH/2000kb/hls/index.m3u8
-舞蹈系学妹,https://v4.jiufanrj.com/20220317/6F8xGzi2/2000kb/hls/index.m3u8
-妹子任人摆弄“哥哥大力点操我，操死我吧”最后射精,https://v4.jiufanrj.com/20220317/wDGl1e0o/2000kb/hls/index.m3u8
-偷窥洗澡按捺不住强上小妈,https://v4.jiufanrj.com/20220317/4AefFa4W/2000kb/hls/index.m3u8
-人美逼嫩内射合租大学生,https://v4.jiufanrj.com/20220314/2YPUJv2j/2000kb/hls/index.m3u8
-放学后的女老师,https://v4.jiufanrj.com/20220314/IUQktQgF/2000kb/hls/index.m3u8
-无业在家无套怒操白领妹妹,https://v4.jiufanrj.com/20220312/C7NU8gJ7/2000kb/hls/index.m3u8
-禽兽哥哥强上亲妹妹高潮抽慉,https://v4.jiufanrj.com/20220312/kq4qUrU3/2000kb/hls/index.m3u8
-强上欲罢不能的女医师,https://v4.jiufanrj.com/20220309/x6WYC0KK/2000kb/hls/index.m3u8
-黑丝OL地铁泄欲,https://v4.jiufanrj.com/20220307/Q8ADpiYb/2000kb/hls/index.m3u8
-色经理舔鲍狂操年轻女下属,https://v4.jiufanrj.com/20220307/jlorMitR/2000kb/hls/index.m3u8
-强逼没用老公看我被操 用钱让绿帽老公闭嘴,https://v4.jiufanrj.com/20220306/8S7ofLVt/2000kb/hls/index.m3u8
-空姐】最新极品混血空姐『夏琪菈』解禁_蜜桃奶全裸美尻眼镜控混血女神,https://v4.jiufanrj.com/20220303/tzwbrcNx/2000kb/hls/index.m3u8
-漂亮女大学生中出以性抵租,https://v4.jiufanrj.com/20220302/8aUlqv2n/2000kb/hls/index.m3u8
-富家女被神棍骗财骗色,https://v4.jiufanrj.com/20220302/6Iou0CTX/2000kb/hls/index.m3u8
-寂寞护士深夜轮值,https://v4.jiufanrj.com/20220227/1gcfY35D/2000kb/hls/index.m3u8
-叫鸡叫到表姐,https://v4.jiufanrj.com/20220227/TW9DhVxG/2000kb/hls/index.m3u8
-欲望少女勾引外卖小哥,https://v4.jiufanrj.com/20220224/WxDZZ0ML/2000kb/hls/index.m3u8
-巨乳骚妹无套硬上亲哥,https://v4.jiufanrj.com/20220224/fPiP8nRM/2000kb/hls/index.m3u8
-误入歧途的女大生,https://v4.jiufanrj.com/20220219/Axy3DtHT/2000kb/hls/index.m3u8
-色欲熏心强奸堂妹,https://v4.jiufanrj.com/20220219/xpaTxhHP/2000kb/hls/index.m3u8
-姐夫的金钱陷阱,https://v4.jiufanrj.com/20220216/3X2JP0at/2000kb/hls/index.m3u8
-爆乳医生的私密检查,https://v4.jiufanrj.com/20220214/ziqUEoiG/2000kb/hls/index.m3u8
-女秘书AV女优面试,https://v4.jiufanrj.com/20220214/0yUaF30Y/2000kb/hls/index.m3u8
-骚货姐姐破处亲弟,https://v4.jiufanrj.com/20220214/J8Pt0Pp3/2000kb/hls/index.m3u8
-变态医师EP4护士长的秘密,https://v4.jiufanrj.com/20220212/kVDaOdlx/2000kb/hls/index.m3u8
-臀网红小姐姐，蜜桃臀对着镜头扣穴,https://v4.jiufanrj.com/20220208/JthAPy5I/2000kb/hls/index.m3u8
-变态医师EP1麻醉巨乳少妇,https://v4.jiufanrj.com/20220206/SSqDRiW9/2000kb/hls/index.m3u8
-色欲熏心硬上有钱女儿,https://v4.jiufanrj.comom/20220206/4xJUaNUW/2000kb/hls/index.m3u8
-欲望少妇强上做鸭表弟,https://v4.jiufanrj.com/20220206/X4RANbDf/2000kb/hls/index.m3u8
-变态医师EP2地铁轮奸OL,https://v4.jiufanrj.com/20220206/IABk4wVL/2000kb/hls/index.m3u8
-变态医师EP3美女病患的沦陷,https://v4.jiufanrj.com/20220206/pfPa5M2l/2000kb/hls/index.m3u8
-淫靡父子轮奸女儿,https://v2.iaxaa.com/20220202/PlQs9ZnW/2000kb/hls/index.m3u8
-在男友面前给他弟弟干,https://v2.iaxaa.com/20220202/S8DwK45J/2000kb/hls/index.m3u8
-到府水电工强奸少妇,https://v2.iaxaa.com/20220202/yun6qLV1/2000kb/hls/index.m3u8
-虎年贺岁虎虎生威AV篇,https://v2.iaxaa.com/20220202/gXBCW7gy/2000kb/hls/index.m3u8
-虎年贺岁虎虎生威综艺篇,https://v2.iaxaa.com/20220202/l1gwilcd/2000kb/hls/index.m3u8
-空姐,https://v2.iaxaa.com/20220201/ON1W0T8v/2000kb/hls/index.m3u8
-寂寞嫂嫂乱伦小叔,https://v2.iaxaa.com/20220201/pASs5W9D/2000kb/hls/index.m3u8
-纵欲小姨勾引亲外甥,https://v2.iaxaa.com/20220126/kUPs7eVL/2000kb/hls/index.m3u8
-床边女友春药诱惑,https://v2.iaxaa.com/20220124/2CzLSlNi/2000kb/hls/index.m3u8
-淫荡小妈色诱继子,https://v2.iaxaa.com/20220124/HuWTWiVm/2000kb/hls/index.m3u8
-互換我們的學生吧看誰的屁股敏感度更高更舒服”互換蜜桃臀,https://v2.iaxaa.com/20220121/AhDQldbe/2000kb/hls/index.m3u8
-贫贱夫妻设局乱伦亲弟,https://v2.iaxaa.com/20220120/nft0LCA9/2000kb/hls/index.m3u8
-邻家女孩的幻想,https://v2.iaxaa.com/20220116/nukK6Ex9/2000kb/hls/index.m3u8
-年轻女教师勾引学生,https://v2.iaxaa.com/20220115/zbZRk5n5/2000kb/hls/index.m3u8
-和小姑乱伦爽翻天 爸妈不在家小姑来借钱,https://v2.iaxaa.com/20220113/romRALVZ/2000kb/hls/index.m3u8
-女高校直播主,https://v2.iaxaa.com/20220109/rb3wASly/2000kb/hls/index.m3u8
-乱伦姐弟上岸史,https://v2.iaxaa.com/20220107/SfQTfjtA/2000kb/hls/index.m3u8
-爆操拜金亲妹妹,https://v2.iaxaa.com/20220105/plxdxZt1/2000kb/hls/index.m3u8
-野蛮的禽兽父亲,https://v2.iaxaa.com/20220102/UxEuVqK2/2000kb/hls/index.m3u8
-公公狠操淫荡儿媳,https://v2.iaxaa.com/20220102/s3vJ1xbU/2000kb/hls/index.m3u8
-辦公室女高管遙控洩慾,https://v2.iaxaa.com/20211219/19xGEmYv/2000kb/hls/index.m3u8
-为了梦想把老婆送给房东下集,https://v2.iaxaa.com/20211219/XpRRjVdE/2000kb/hls/index.m3u8
-淫乱圣诞趴节目篇-白星雨,https://v2.iaxaa.com/20211227/T886ARDK/2000kb/hls/index.m3u8
-淫乱圣诞趴-白星雨,https://v2.iaxaa.com/20211227/K1kjrhNC/2000kb/hls/index.m3u8
-贪图享乐竟让弟弟迷奸嫂嫂,https://v2.iaxaa.com/20211227/Vp79SOe9/2000kb/hls/index.m3u8
-一日女友,https://v2.iaxaa.com/20211224/lOWZe1A7/2000kb/hls/index.m3u8
-美女同学诱惑告白,https://v2.iaxaa.com/20211212/jEl0WgKk/2000kb/hls/index.m3u8
-深夜孤寂的輕熟女,https://v2.iaxaa.com/20211212/iGLlL3I5/2000kb/hls/index.m3u8
-为了梦想把老婆送给房东上集,https://v2.iaxaa.com/20211212/QNoW3VCf/2000kb/hls/index.m3u8
-女教师的私欲,https://v2.iaxaa.com/20211201/gN49Ssx8/2000kb/hls/index.m3u8
-绿帽父亲怒操大胸女儿,https://v2.iaxaa.com/20211127/2AmxChmM/2000kb/hls/index.m3u8
-JK真理裤,https://v2.iaxaa.com/20211122/b2i3ZI2T/2000kb/hls/index.m3u8
-男主管辦公室內狠幹女下屬,https://v2.iaxaa.com/20211122/ElitRyKa/2000kb/hls/index.m3u8
-清純OL淫荡泄欲,https://v2.iaxaa.com/20211120/EBeMfqs1/2000kb/hls/index.m3u8
-荡妇下药强奸小叔子,https://v2.iaxaa.com/20211120/BBOo13Ep/2000kb/hls/index.m3u8
-让我欲罢不能的小姨,https://v2.iaxaa.com/20211120/Ozw4cJKc/2000kb/hls/index.m3u8
-利誘JK制服妹下海,https://v2.iaxaa.com/20211113/CPQ9TBj0/2000kb/hls/index.m3u8
-尾行調教,https://v2.iaxaa.com/20211113/sb10LV8k/2000kb/hls/index.m3u8
-利誘JK制服妹下海-孟若羽,https://v2.iaxaa.com/20211113/CPQ9TBj0/2000kb/hls/index.m3u8
-约了个极品水蜜桃大胸川妹子,https://v2.iaxaa.com/20211109/02r5OXwp/2000kb/hls/index.m3u8
-绿奴淫妻癖好-唐茜,https://v2.iaxaa.com/20211106/pNFsnjkN/2000kb/hls/index.m3u8
-暴富父子共享一女-唐茜,https://v2.iaxaa.com/20211106/BZ3OdAy4/2000kb/hls/index.m3u8
-榜一大哥爆操抖音女网红-静静,https://v2.iaxaa.com/20211106/6YkYKzx5/2000kb/hls/index.m3u8
-媒   情欲瑜伽 愛液噴發 蘇艾文(蜜蘇),https://v2.iaxaa.com/20211019/UgwMPvaZ/2000kb/hls/index.m3u8
-音乐爱情故事-宁静,https://v2.iaxaa.com/20211019/w3yaYNyH/2000kb/hls/index.m3u8
-看片泄欲-孟若羽,https://v2.iaxaa.com/20211012/0FzgY2hU/2000kb/hls/index.m3u8
-2,https://v2.iaxaa.com/20211008/AGXiS9BQ/2000kb/hls/index.m3u8
-1,https://v2.iaxaa.com/20211008/Go3rhDpX/2000kb/hls/index.m3u8
-媒   清純護士,https://v2.iaxaa.com/20211005/rnQLJXX2/2000kb/hls/index.m3u8
-第一人称裸体厨房,https://v2.iaxaa.com/20211005/Gq3mcxY4/2000kb/hls/index.m3u8
-微醺女子,https://v2.iaxaa.com/20211005/dwY5QAsn/2000kb/hls/index.m3u8
-寂寞酒店妹,https://v2.iaxaa.com/20211005/t8bBOeaS/2000kb/hls/index.m3u8
-室友熟睡女大生忘情泄欲,https://v2.iaxaa.com/20211005/gvktugzK/2000kb/hls/index.m3u8
-粉丝突袭计划,https://v2.iaxaa.com/20211003/u6YSoGNE/2000kb/hls/index.m3u8
-66美黑之後的蜜桃臀 痙攣！催眠後的絕頂痙攣淫亂性愛,https://v2.iaxaa.com/20210924/KOlL8Inv/2000kb/hls/index.m3u8
-强爆我的一日女友,https://v2.iaxaa.com/20210918/MZiFQTmy/2000kb/hls/index.m3u8
-桃翹臀的蘿莉丁字褲少女的實習風俗服務,https://v2.iaxaa.com/20210918/R6Tt5W2S/2000kb/hls/index.m3u8
-蜜友日记2滴滴司机,https://v2.iaxaa.com/20210914/kowX03ed/2000kb/hls/index.m3u8
-狂热粉丝自拍成都校园草鸡狂魔,https://v2.iaxaa.com/20210912/yOmqnrex/2000kb/hls/index.m3u8
-女大生AV女優面試,https://v2.iaxaa.com/20210911/MbUebIJO/2000kb/hls/index.m3u8
-女优面试,https://v2.iaxaa.com/20210910/bNDhLmcp/2000kb/hls/index.m3u8
-台湾水电工修理淫靡学生妹,https://v2.iaxaa.com/20210910/E4iLCI2J/2000kb/hls/index.m3u8
-火辣保母大胆泻欲,https://v2.iaxaa.com/20210910/bxrinTi1/2000kb/hls/index.m3u8
-午夜猎艳未果欲火难耐,https://v2.iaxaa.com/20210910/ccQe1bLx/2000kb/hls/index.m3u8
-直播极品水蜜桃大胸走在路上吸引眼球,https://v2.iaxaa.com/20210831/WQtDLs6k/2000kb/hls/index.m3u8
-迷奸妻子的姐妹,https://v2.iaxaa.com/20210830/rpqCVLoL/2000kb/hls/index.m3u8
-蜜桃鸭,https://v2.iaxaa.com/20210829/AKm5Nl85/2000kb/hls/index.m3u8
-桃哥为国争光记,https://v2.iaxaa.com/20210823/VKuK2eSx/2000kb/hls/index.m3u8
-陈圆圆三亚特别企划,https://v1.goulexizuo.com/20210815/GJQTypU8/2000kb/hls/index.m3u8
-来自房东偷窥的爱,https://v1.goulexizuo.com/20210815/5QG4pyac/2000kb/hls/index.m3u8
-蜜友日记EP01,https://v1.goulexizuo.com/20210813/jAhw7t7H/2000kb/hls/index.m3u8
-死库水,https://v1.goulexizuo.com/20210809/HYLxRSpQ/2000kb/hls/index.m3u8
-蜜桃女郎发红包,https://v1.goulexizuo.com/20210801/3X2fs8La/2000kb/hls/index.m3u8
-錯位時空,https://v1.goulexizuo.com/20210730/0nUsxRxN/2000kb/hls/index.m3u8
-家庭醫師的誘惑,https://v1.goulexizuo.com/20210724/9uvueIex/2000kb/hls/index.m3u8
-富二代的縱慾生活,https://v1.goulexizuo.com/20210724/Dz7rqIMf/2000kb/hls/index.m3u8
-綁架強姦巨乳女優,https://v1.goulexizuo.com/20210722/W9hiCcEi/2000kb/hls/index.m3u8
-裸體廚房餐桌上幹閨蜜,https://v1.goulexizuo.com/20210722/SwOxgD6I/2000kb/hls/index.m3u8
-空姐的淫乱秘密,https://v1.goulexizuo.com/20210722/SlrPEm9P/2000kb/hls/index.m3u8
-私教的暴露性瘾,https://v1.goulexizuo.com/20210719/f4M6lwRB/2000kb/hls/index.m3u8
-危情的士野外迷奸,https://v1.goulexizuo.com/20210719/o3jmohtP/2000kb/hls/index.m3u8
-欲望女总裁,https://v1.goulexizuo.com/20210716/2PRQpw6l/2000kb/hls/index.m3u8
-淫妻的绿帽癖好,https://v1.goulexizuo.com/20210716/9Y3uW7bn/2000kb/hls/index.m3u8
-音乐爱情故事 LyDia,https://v1.goulexizuo.com/20210713/RtmyaF9A/2000kb/hls/index.m3u8
-电爱女郎,https://v1.goulexizuo.com/20210707/4PN37XSw/2000kb/hls/index.m3u8
-职场冰与EP4驯服,https://v1.goulexizuo.com/20210704/jQmlEYrS/2000kb/hls/index.m3u8
-职场冰与 EP3设局,https://v1.goulexizuo.com/20210630/5SVnM4WB/2000kb/hls/index.m3u8
-刺青少妇深夜未眠,https://v1.goulexizuo.com/20210626/P5vG7Al3/2000kb/hls/index.m3u8
-02,https://v1.goulexizuo.com/20210626/JapoDoKi/2000kb/hls/index.m3u8
-01,https://v1.goulexizuo.com/20210626/PhRQaHjJ/2000kb/hls/index.m3u8
-职场冰与火EP2胁迫,https://v1.goulexizuo.com/20210622/giFYVrB9/2000kb/hls/index.m3u8
-爸爸们的愿望,https://v1.goulexizuo.com/20210621/XemmWiKP/2000kb/hls/index.m3u8
-爸爸们的愿望,https://v1.goulexizuo.com/20210621/gM4Y8LYm/2000kb/hls/index.m3u8
-职场冰与火EP1性癮,https://v1.goulexizuo.com/20210619/KRf1CX4r/2000kb/hls/index.m3u8
-香蕉鮮奶油浓密亲吮,https://v1.goulexizuo.com/20210612/oIIcsM6G/2000kb/hls/index.m3u8
-版  男女真性色 街坊素人出道作2,https://v1.goulexizuo.com/20210610/kYv2cg8u/2000kb/hls/index.m3u8
-勾引锁匠乱伦亲兄,https://v1.goulexizuo.com/20210609/WKDZqzul/2000kb/hls/index.m3u8
-马尾少妇清晨泄欲,https://v1.goulexizuo.com/20210606/nNM08dda/2000kb/hls/index.m3u8
-女僕咖啡廳EP5番外篇女僕雙飛火辣女仆,https://v1.goulexizuo.com/20210603/z2E6x6PP/2000kb/hls/index.m3u8
-欲望教师,https://v1.goulexizuo.com/20210531/2FvNqS8P/2000kb/hls/index.m3u8
-版 清纯OL绑架轮奸,https://v1.goulexizuo.com/20210528/anj58nTM/2000kb/hls/index.m3u8
-神棍双休信女,https://v1.goulexizuo.com/20210524/0tSc9b7M/2000kb/hls/index.m3u8
-东京爱情故事之告白,https://v1.goulexizuo.com/20210521/99Vjp5S0/2000kb/hls/index.m3u8
-萝莉女友肉身赎债,https://v1.goulexizuo.com/20210521/ye7EWv1h/2000kb/hls/index.m3u8
-版   电话淫叫 报复不举前任,https://v1.goulexizuo.com/20210518/7ggN2s8Y/2000kb/hls/index.m3u8
-版  外围嫩模致富秘诀,https://v1.goulexizuo.com/20210518/SmiWL0nN/2000kb/hls/index.m3u8
-情欲沐浴,https://v1.goulexizuo.com/20210515/VlROfdX5/2000kb/hls/index.m3u8
-惡魔小蘿莉,https://v1.goulexizuo.com/20210506/zpEqLP8a/2000kb/hls/index.m3u8
-媒原版  东京爱情故事2,https://v1.goulexizuo.com/20210505/jDdCm4gp/2000kb/hls/index.m3u8
-停飞空姐勾引乘客,https://v1.goulexizuo.com/20210505/cyibKaZQ/2000kb/hls/index.m3u8
-蜜桃的誘惑,https://v1.goulexizuo.com/20210505/jOYHVls0/2000kb/hls/index.m3u8
-變態網友初見面,https://v1.goulexizuo.com/20210505/zFftUQNi/2000kb/hls/index.m3u8
-疫情性爱大威胁,https://v1.goulexizuo.com/20210428/ggkh01xP/2000kb/hls/index.m3u8
-女仆咖啡厅EP4-感谢祭,https://v1.goulexizuo.com/20210426/4e96hYeB/2000kb/hls/index.m3u8
-媒原版  女仆咖啡厅 EP3 抉择,https://v1.goulexizuo.com/20210423/WNDzHwIs/2000kb/hls/index.m3u8
-独自在家的旗袍少妇,https://v1.goulexizuo.com/20210419/03r2rk8n/2000kb/hls/index.m3u8
-媒原版 女仆咖啡厅 EP2 出发,https://v1.goulexizuo.com/20210416/dgzdc7Ez/2000kb/hls/index.m3u8
-女僕咖啡廳EP1归零,https://v1.goulexizuo.com/20210410/TVDTTwGA/2000kb/hls/index.m3u8
-完美的蜜桃臀女孩,https://v1.goulexizuo.com/20210406/Gpj8oCgT/2000kb/hls/index.m3u8
-VR虛擬情人,https://v1.goulexizuo.com/20210406/xBc2G5Ns/2000kb/hls/index.m3u8
-已故男友的情人節禮物,https://v1.goulexizuo.com/20210406/SOxKtbdT/2000kb/hls/index.m3u8
-已故男友的情人節禮物,https://v1.goulexizuo.com/20210401/ffq6ydjR/2000kb/hls/index.m3u8
-已故男友的情人節禮物,https://v1.goulexizuo.com/20210401/erJTo6fT/2000kb/hls/index.m3u8
-已故男友的情人節禮物,https://v1.goulexizuo.com/20210328/djjpc53C/2000kb/hls/index.m3u8
-媒原版 男友同床忘情手淫,https://v1.goulexizuo.com/20210328/ca5cWnAE/2000kb/hls/index.m3u8
-版 性理疗师诊疗室,https://v1.goulexizuo.com/20210328/Oj6OZ7ev/2000kb/hls/index.m3u8
-版 貧賤姊夫 狠操小姨,https://v1.goulexizuo.com/20210328/pGJlzpN5/2000kb/hls/index.m3u8
-媒原版  裸贷危机,https://v1.goulexizuo.com/20210328/DeTYto6c/2000kb/hls/index.m3u8
-媒原版 销冠的秘密,https://v1.goulexizuo.com/20210328/HuWmEqXF/2000kb/hls/index.m3u8
-V 蜜桃成熟时之兄妹蕉谈,https://v1.goulexizuo.com/20210328/4aWixy8A/2000kb/hls/index.m3u8
-女优面试,https://v1.goulexizuo.com/20210328/vEhvEcOE/2000kb/hls/index.m3u8
-晨間誘惑空氣性愛,https://v1.goulexizuo.com/20210328/KCHvoyRt/2000kb/hls/index.m3u8
-不良高校制服学妹 完具直捣无毛白虎嫩穴 巨乳女神,https://v1.goulexizuo.com/20210312/yNpIL7VO/2000kb/hls/index.m3u8
-女王の性狗奴m男调教,https://v1.goulexizuo.com/20210303/li4Tr88D/2000kb/hls/index.m3u8
-帅哥学员草翻瑜伽老师,https://v1.goulexizuo.com/20210303/UB0Soy2z/2000kb/hls/index.m3u8
-外送家政婦爆乳慶元宵,https://v1.goulexizuo.com/20210227/VxU4dtzr/2000kb/hls/index.m3u8
-欲望健身房,https://v1.goulexizuo.com/20210223/OLADC9ax/2000kb/hls/index.m3u8
-光🦌10_2001,#genre#
-把保洁的女儿按在沙发上强奸,https://v4.jiufanrj.com/20220418/poJ706DS/2000kb/hls/index.m3u8
-玩弄表姐叫床超好听,https://v4.jiufanrj.com/20220418/pccXDFkr/2000kb/hls/index.m3u8
-拉拉遊戲,https://v4.jiufanrj.com/20220416/tf075eNm/2000kb/hls/index.m3u8
-綁架富婆,https://v4.jiufanrj.com/20220416/y6sCOE5J/2000kb/hls/index.m3u8
-极品姐妹在家轮流被大屌操,https://v4.jiufanrj.com/20220416/cFt2RKPG/2000kb/hls/index.m3u8
-植物人老公,https://v4.jiufanrj.com/20220404/bC41SEx0/2000kb/hls/index.m3u8
-罗曼蒂克消亡史,https://v4.jiufanrj.com/20220404/Dz3RpbKI/2000kb/hls/index.m3u8
-口爆醉酒的大姨子,https://v4.jiufanrj.com/20220330/3bsbjr4j/2000kb/hls/index.m3u8
-爸爸的特殊治療,https://v4.jiufanrj.com/20220330/3DX7EKrD/2000kb/hls/index.m3u8
-色欲狂潮香艳的后妈,https://v4.jiufanrj.com/20220321/pppXcToH/2000kb/hls/index.m3u8
-强上妹妹,https://v4.jiufanrj.com/20220319/DlZpLt5J/2000kb/hls/index.m3u8
-堕落成瘾,https://v4.jiufanrj.com/20220314/EMACn5Y8/2000kb/hls/index.m3u8
-情欲放纵小叔爆操小嫂子,https://v4.jiufanrj.com/20220312/cg7xlZo4/2000kb/hls/index.m3u8
-诱奸儿媳,https://v4.jiufanrj.com/20220307/WALwFQnG/2000kb/hls/index.m3u8
-养女复仇,https://v4.jiufanrj.com/20220306/BKN58OYA/2000kb/hls/index.m3u8
-健身教练的私密教学,https://v4.jiufanrj.com/20220302/WPdD62vo/2000kb/hls/index.m3u8
-极度诱惑,https://v4.jiufanrj.com/20220227/vwOd9Rel/2000kb/hls/index.m3u8
-回家的诱惑EP7兄弟感情好老婆一起搞,https://v4.jiufanrj.com/20220214/D9BXe3H2/2000kb/hls/index.m3u8
-回家的诱惑EP1过年前夕找个女友回家过年,https://v4.jiufanrj.com/20220206/AzkPo2u4/2000kb/hls/index.m3u8
-回家的诱惑EP2老同学的干炮邀请,https://v4.jiufanrj.com/20220206/h9T6hIhZ/2000kb/hls/index.m3u8
-回家的诱惑EP3大嫂造娃进行时,https://v4.jiufanrj.com/20220206/QBiQjupl/2000kb/hls/index.m3u8
-回家的诱惑EP4主人请接受我的小穴,https://v4.jiufanrj.com/20220206/mcvSUMjD/2000kb/hls/index.m3u8
-回家的诱惑EP5上门礼物女王皮鞭套餐,https://v4.jiufanrj.com/20220206/knCGIQxo/2000kb/hls/index.m3u8
-回家的诱惑EP6小叔子鸡鸡掰直计划,https://v4.jiufanrj.com/20220206/HEXKAvbk/2000kb/hls/index.m3u8
-被资助的女大学生,https://v2.iaxaa.com/20220124/Q7gegOBE/2000kb/hls/index.m3u8
-舞蹈老师的回忆2,https://v2.iaxaa.com/20220124/CmG2qMsi/2000kb/hls/index.m3u8
-同学聚会下卷之丑小鸭的报复,https://v2.iaxaa.com/20220117/XMGSMNDz/2000kb/hls/index.m3u8
-同学聚会上卷,https://v2.iaxaa.com/20220116/wWuv7uMh/2000kb/hls/index.m3u8
-大宅院的女人,https://v2.iaxaa.com/20220111/NU3gLFyH/2000kb/hls/index.m3u8
-赘婿2.0,https://v2.iaxaa.com/20220111/BIx5SpHX/2000kb/hls/index.m3u8
-元旦慶典女優狂歡趴,https://v2.iaxaa.com/20220106/eXYUcATF/2000kb/hls/index.m3u8
-義工,https://v2.iaxaa.com/20220105/y7sgUm0r/2000kb/hls/index.m3u8
-现任危机,https://v2.iaxaa.com/20211219/GmNG8FW0/2000kb/hls/index.m3u8
-媒出品 处男 程序员洗浴按摩店的性奇幻之旅,https://v2.iaxaa.com/20211219/Zb3ncvPn/2000kb/hls/index.m3u8
-歌手的星途,https://v2.iaxaa.com/20211227/qAIy5u3V/2000kb/hls/index.m3u8
-圣诞cos盲盒,https://v2.iaxaa.com/20211227/0uTpRElL/2000kb/hls/index.m3u8
-舞蹈老师的回忆日记1,https://v2.iaxaa.com/20211224/1w0A7Zm3/2000kb/hls/index.m3u8
-表妹的性爱辅导师-春芙,https://v2.iaxaa.com/20211224/HdKRC6N3/2000kb/hls/index.m3u8
-性闻联播5绿奴隶丈夫竟联合妻子偷拍情夫不雅照进行勒索,https://v2.iaxaa.com/20211212/rEQgVZYa/2000kb/hls/index.m3u8
-王者荣耀之福利局,https://v2.iaxaa.com/20211212/JlGgLQUG/2000kb/hls/index.m3u8
-耙耳朵的终极幻想,https://v2.iaxaa.com/20211212/zvRwr8Xv/2000kb/hls/index.m3u8
-星空大排档,https://v2.iaxaa.com/20211201/icni3XWE/2000kb/hls/index.m3u8
-万万没想到之偷情被发现,https://v2.iaxaa.com/20211127/cpgl4axA/2000kb/hls/index.m3u8
-我的老婆是大佬3,https://v2.iaxaa.com/20211127/oEB3oBan/2000kb/hls/index.m3u8
-星空女优找爸爸,https://v2.iaxaa.com/20211122/gjdBkpv8/2000kb/hls/index.m3u8
-卧槽了个DJ堕落,https://v2.iaxaa.com/20211116/JiNZP24H/2000kb/hls/index.m3u8
-肉棒收割游戏,https://v2.iaxaa.com/20211113/9fa7sDhV/2000kb/hls/index.m3u8
-媒 .面馆传人.斟茶敬师傅.跪下含龙根,https://v2.iaxaa.com/20211019/sb5FOpiZ/2000kb/hls/index.m3u8
-无间道3-秋霞,https://v2.iaxaa.com/20211019/nq7YK15u/2000kb/hls/index.m3u8
-尾行1-冯雪,https://v2.iaxaa.com/20211019/ZSeCCat9/2000kb/hls/index.m3u8
-卧槽了个DJ-前传,https://v2.iaxaa.com/20211012/Tyt5ef97/2000kb/hls/index.m3u8
-淫蛇,https://v2.iaxaa.com/20211003/ZzlrAK9K/2000kb/hls/index.m3u8
-少妇白洁5,https://v2.iaxaa.com/20211003/h3mLd6N8/2000kb/hls/index.m3u8
-民国旗袍系列2,https://v2.iaxaa.com/20211003/FxyCCecH/2000kb/hls/index.m3u8
-程序员的奇幻之旅1,https://v2.iaxaa.com/20210929/fyIK5BBG/2000kb/hls/index.m3u8
-死亡微信之夺命的高潮,https://v2.iaxaa.com/20210929/wH1VEY1s/2000kb/hls/index.m3u8
-我的老婆是大佬1,https://v2.iaxaa.com/20210929/KdKFsIQF/2000kb/hls/index.m3u8
-舔狗日记,https://v2.iaxaa.com/20210922/59KfeMct/2000kb/hls/index.m3u8
-女朋友的秘密,https://v2.iaxaa.com/20210918/cf2FvRzs/2000kb/hls/index.m3u8
-商务伴游,https://v2.iaxaa.com/20210918/THtkUHql/2000kb/hls/index.m3u8
-婚闹,https://v2.iaxaa.com/20210914/xUS8DT3n/2000kb/hls/index.m3u8
-卧槽了个DJ2,https://v2.iaxaa.com/20210911/CHhAt1Ip/2000kb/hls/index.m3u8
-上海滩,https://v2.iaxaa.com/20210910/pwbaAs1p/2000kb/hls/index.m3u8
-无间道2,https://v2.iaxaa.com/20210910/PaQoyzaN/2000kb/hls/index.m3u8
-回魂夜,https://v2.iaxaa.com/20210823/DqarMoEi/2000kb/hls/index.m3u8
-少妇白洁4,https://v2.iaxaa.com/20210823/65I8OBtc/2000kb/hls/index.m3u8
-绿帽杀手,https://v1.goulexizuo.com/20210821/OfkVIrXU/2000kb/hls/index.m3u8
-拐卖（上）,https://v1.goulexizuo.com/20210815/XXGJmTBc/2000kb/hls/index.m3u8
-贴身秘书,https://v1.goulexizuo.com/20210815/v1mmp8v7/2000kb/hls/index.m3u8
-替父淫妻,https://v1.goulexizuo.com/20210809/AUmZlCcl/2000kb/hls/index.m3u8
-猫系女友,https://v1.goulexizuo.com/20210809/SmbR5dob/2000kb/hls/index.m3u8
-卧槽了个DJ,https://v1.goulexizuo.com/20210801/m4n7rZcV/2000kb/hls/index.m3u8
-莞式服务,https://v1.goulexizuo.com/20210801/g8ZT0uj7/2000kb/hls/index.m3u8
-致青春,https://v1.goulexizuo.com/20210723/zKzBN8b8/2000kb/hls/index.m3u8
-我家有妹初长成,https://v1.goulexizuo.com/20210723/NQYDLCj3/2000kb/hls/index.m3u8
-少妇白洁3,https://v1.goulexizuo.com/20210723/xcPihuqO/2000kb/hls/index.m3u8
-无间道1,https://v1.goulexizuo.com/20210719/p9Dkdzkn/2000kb/hls/index.m3u8
-绝代双娇,https://v1.goulexizuo.com/20210719/1Hy85MOi/2000kb/hls/index.m3u8
-奸王之王2021,https://v1.goulexizuo.com/20210719/ALCgC33U/2000kb/hls/index.m3u8
-少妇白洁2,https://v1.goulexizuo.com/20210713/MVp6CIqW/2000kb/hls/index.m3u8
-色劫,https://v1.goulexizuo.com/20210713/dNChuUjL/2000kb/hls/index.m3u8
-性闻联播4,https://v1.goulexizuo.com/20210713/dYVOgWS4/2000kb/hls/index.m3u8
-裸贷2,https://v1.goulexizuo.com/20210707/Cy69A9XF/2000kb/hls/index.m3u8
-赌神风云,https://v1.goulexizuo.com/20210704/Ym2deEj7/2000kb/hls/index.m3u8
-我的妹妹不可能这么可爱2,https://v1.goulexizuo.com/20210704/6YtRInqp/2000kb/hls/index.m3u8
-重金求子之普罗米修斯,https://v1.goulexizuo.com/20210627/7eCUYIAI/2000kb/hls/index.m3u8
-房东怀了我的孩子2,https://v1.goulexizuo.com/20210627/LvWLoJkE/2000kb/hls/index.m3u8
-匆匆那年校园的故事,https://v1.goulexizuo.com/20210626/ir4eoQGD/2000kb/hls/index.m3u8
-少妇白洁1,https://v1.goulexizuo.com/20210626/dN0bTdTO/2000kb/hls/index.m3u8
-学生的报恩,https://v1.goulexizuo.com/20210621/fVyJd5YY/2000kb/hls/index.m3u8
-爸爸不要停,https://v1.goulexizuo.com/20210621/irOOPuIs/2000kb/hls/index.m3u8
-拾捌岁,https://v1.goulexizuo.com/20210621/BEvgcqe8/2000kb/hls/index.m3u8
-纵情之夜激情端午,https://v1.goulexizuo.com/20210617/fzyrVenz/2000kb/hls/index.m3u8
-房東懷了我的孩子,https://v1.goulexizuo.com/20210613/WQ3TTzAB/2000kb/hls/index.m3u8
-律政俏佳人,https://v1.goulexizuo.com/20210612/tu6mbhme/2000kb/hls/index.m3u8
-裸贷,https://v1.goulexizuo.com/20210609/JRRtMwwr/2000kb/hls/index.m3u8
-我在微信撩妹妹,https://v1.goulexizuo.com/20210606/AiyDm4nZ/2000kb/hls/index.m3u8
-奥特曼VS哥斯拉,https://v1.goulexizuo.com/20210601/zNvyMgST/2000kb/hls/index.m3u8
-赘婿2歪嘴龙王逆袭版,https://v1.goulexizuo.com/20210531/c1KO5Hbz/2000kb/hls/index.m3u8
-我的妹妹不可能这么可爱,https://v1.goulexizuo.com/20210528/tR4DaVQu/2000kb/hls/index.m3u8
-霸道总裁,https://v1.goulexizuo.com/20210528/Dp0rEGUF/2000kb/hls/index.m3u8
-性闻联播3,https://v1.goulexizuo.com/20210522/8tpDoVyN/2000kb/hls/index.m3u8
-技校色情风波,https://v1.goulexizuo.com/20210521/RlahSATk/2000kb/hls/index.m3u8
-版  性爱游戏 两女一根,https://v1.goulexizuo.com/20210518/JgO87LTe/2000kb/hls/index.m3u8
-媒原版  头文字D,https://v1.goulexizuo.com/20210509/zPMdbbPJ/2000kb/hls/index.m3u8
-背着男友偷情富二代,https://v1.goulexizuo.com/20210505/pABvtIo1/2000kb/hls/index.m3u8
-王拉拉升职记3,https://v1.goulexizuo.com/20210505/cXxwCZMJ/2000kb/hls/index.m3u8
-游戏迷女友,https://v1.goulexizuo.com/20210505/IcPok4Xx/2000kb/hls/index.m3u8
-堕落空姐,https://v1.goulexizuo.com/20210505/fevA8ts4/2000kb/hls/index.m3u8
-性闻联播2,https://v1.goulexizuo.com/20210505/0bGffDIz/2000kb/hls/index.m3u8
-媒原版   妻子的好闺蜜3 双飞之夜,https://v1.goulexizuo.com/20210502/w8fKmXcT/2000kb/hls/index.m3u8
-王拉拉升职记2,https://v1.goulexizuo.com/20210428/hIVYk6kS/2000kb/hls/index.m3u8
-王拉拉升职记1,https://v1.goulexizuo.com/20210426/tvQIGdkS/2000kb/hls/index.m3u8
-妻子的好闺蜜2,https://v1.goulexizuo.com/20210423/GSwZc0c5/2000kb/hls/index.m3u8
-媒原版  甘愿为奴老板与秘书不为人知的秘密,https://v1.goulexizuo.com/20210423/5MzhYKKZ/2000kb/hls/index.m3u8
-媒原版  妻子的好闺蜜1,https://v1.goulexizuo.com/20210419/ZgwwQ1F4/2000kb/hls/index.m3u8
-版  放纵情欲女高管与男下属私下偷情,https://v1.goulexizuo.com/20210416/UIo6Lcj2/2000kb/hls/index.m3u8
-媒原版 爱 婚姻 性,https://v1.goulexizuo.com/20210413/C1B03dTv/2000kb/hls/index.m3u8
-性闻联播 女记者暗访光棍村,https://v1.goulexizuo.com/20210411/XPJXtM1G/2000kb/hls/index.m3u8
-出租女友2,https://v1.goulexizuo.com/20210406/JhyNOw14/2000kb/hls/index.m3u8
-光🦌11_2001,#genre#
-黑丝女秘书-粉色情人,https://v4.jiufanrj.com/20220416/aoTAQDDg/2000kb/hls/index.m3u8
-淫肉搜查官,https://v4.jiufanrj.com/20220416/UJDWOX2u/2000kb/hls/index.m3u8
-AI人形機器女友,https://v4.jiufanrj.com/20220404/tteDlbFL/2000kb/hls/index.m3u8
-网红中国零食体验,https://v4.jiufanrj.com/20220404/TQWfR8UC/2000kb/hls/index.m3u8
-偷情人妻下集,https://v4.jiufanrj.com/20220330/kOcvvjkb/2000kb/hls/index.m3u8
-东京热现场实录,https://v4.jiufanrj.com/20220326/yxmBckJK/2000kb/hls/index.m3u8
-优等生的桃色交易,https://v4.jiufanrj.com/20220321/Nxl6i7UM/2000kb/hls/index.m3u8
-偷情人妻上,https://v4.jiufanrj.com/20220319/NVDKkXdn/2000kb/hls/index.m3u8
-迷操親姐姐,https://v4.jiufanrj.com/20220312/ZOI187tc/2000kb/hls/index.m3u8
-肉感精油SPA,https://v4.jiufanrj.com/20220227/LRS78tAQ/2000kb/hls/index.m3u8
-街头猎艳清纯骚女,https://v4.jiufanrj.com/20220219/Ev71d39i/2000kb/hls/index.m3u8
-名媛千金艳遇记,https://v4.jiufanrj.com/20220216/0UGcLJ0g/2000kb/hls/index.m3u8
-AV镜头挑战,https://v4.jiufanrj.com/20220214/II4GFWEG/2000kb/hls/index.m3u8
-地铁轮奸计划,https://v4.jiufanrj.com/20220212/fOYVs9Hk/2000kb/hls/index.m3u8
-跳蛋购物突袭做爱,https://v4.jiufanrj.com/20220206/f00Iqnup/2000kb/hls/index.m3u8
-新婚人妻爱上小偷肉棒,https://v2.iaxaa.com/20220201/IzjJhg2s/2000kb/hls/index.m3u8
-时间静止AV现场实录,https://v2.iaxaa.com/20220124/NZqKt1dV/2000kb/hls/index.m3u8
-坠欲下集,https://v2.iaxaa.com/20220124/hS8OkaUa/2000kb/hls/index.m3u8
-说唱巨星的淫谋,https://v2.iaxaa.com/20220120/oRQA53SB/2000kb/hls/index.m3u8
-李雷和韩梅梅,https://v2.iaxaa.com/20220115/gOaDnjdf/2000kb/hls/index.m3u8
-坠欲上集,https://v2.iaxaa.com/20220109/O6DPyqp1/2000kb/hls/index.m3u8
-元旦嘉年華,https://v2.iaxaa.com/20220105/3RHxO7Q6/2000kb/hls/index.m3u8
-深夜约嫖美腿车模,https://v2.iaxaa.com/20220102/KgdYwgZ3/2000kb/hls/index.m3u8
-人妻精油按摩,https://v2.iaxaa.com/20211230/5JH5x516/2000kb/hls/index.m3u8
-娘炮的蜕变,https://v2.iaxaa.com/20211219/vDZ3BlWm/2000kb/hls/index.m3u8
-嫂子的温柔,https://v2.iaxaa.com/20211219/7ixVUaTS/2000kb/hls/index.m3u8
-JK女租客,https://v2.iaxaa.com/20211227/eMApgVt6/2000kb/hls/index.m3u8
-鹿角女孩,https://v2.iaxaa.com/20211227/ZmhOe160/2000kb/hls/index.m3u8
-采精小淫鹿,https://v2.iaxaa.com/20211227/gvsn2X3F/2000kb/hls/index.m3u8
-娘炮的蜕变下集,https://v2.iaxaa.com/20211224/DwUYbdKo/2000kb/hls/index.m3u8
-屈辱的人妻,https://v2.iaxaa.com/20211212/rwQt716p/2000kb/hls/index.m3u8
-拜金母狗人妻,https://v2.iaxaa.com/20211212/S2NewPsw/2000kb/hls/index.m3u8
-秘书的呻吟,https://v2.iaxaa.com/20211212/2dBAZfZ3/2000kb/hls/index.m3u8
-舔狗的春天,https://v2.iaxaa.com/20211201/sjqiom3e/2000kb/hls/index.m3u8
-借贷肉偿,https://v2.iaxaa.com/20211127/UVTcXAZ4/2000kb/hls/index.m3u8
-迷奸清纯女同学,https://v2.iaxaa.com/20211122/E9WTz9nR/2000kb/hls/index.m3u8
-合租之偷窥,https://v2.iaxaa.com/20211122/sRuenI9p/2000kb/hls/index.m3u8
-十九岁D奶少女,https://v2.iaxaa.com/20211120/IUSRblnI/2000kb/hls/index.m3u8
-母亲的鼓励,https://v2.iaxaa.com/20211116/dYnz0tVC/2000kb/hls/index.m3u8
-寂寞騷妻,https://v2.iaxaa.com/20211113/J5nDDP7G/2000kb/hls/index.m3u8
-巨乳清純萌妹,https://v2.iaxaa.com/20211110/njjyMYC8/2000kb/hls/index.m3u8
-邻居人妻-徐美娇,https://v2.iaxaa.com/20211106/08p7bz7H/2000kb/hls/index.m3u8
-长腿御姐170cm-李曼丽,https://v2.iaxaa.com/20211019/xjauLsdl/2000kb/hls/index.m3u8
-兄弟奸淫我妻子-刘小雯,https://v2.iaxaa.com/20211019/jHmietig/2000kb/hls/index.m3u8
-特殊治疗-金巧巧,https://v2.iaxaa.com/20211019/XOf7sY8U/2000kb/hls/index.m3u8
-语文老师-徐洛瑶,https://v2.iaxaa.com/20211019/cAZBvStQ/2000kb/hls/index.m3u8
-爱在日落时-卢珊珊,https://v2.iaxaa.com/20211012/Ea36Twwq/2000kb/hls/index.m3u8
-老公请原谅我,https://v2.iaxaa.com/20211012/COJiOf7Z/2000kb/hls/index.m3u8
-白色妖姬,https://v2.iaxaa.com/20211005/TYKG7KcQ/2000kb/hls/index.m3u8
-绿帽父亲受精女-戚小怜,https://v2.iaxaa.com/20211003/aqkY3tBQ/2000kb/hls/index.m3u8
-少女的悔悟,https://v2.iaxaa.com/20211003/EDW1L05c/2000kb/hls/index.m3u8
-租房交易,https://v2.iaxaa.com/20210929/DycxbAAC/2000kb/hls/index.m3u8
-童顔女秘堕落日记,https://v2.iaxaa.com/20210929/P33owCCt/2000kb/hls/index.m3u8
-童顔少女AV志愿,https://v2.iaxaa.com/20210929/hoG2BPbh/2000kb/hls/index.m3u8
-双重身份的色欲开发,https://v2.iaxaa.com/20210922/nLaCUCjG/2000kb/hls/index.m3u8
-猎头色诱术,https://v2.iaxaa.com/20210918/007cwynN/2000kb/hls/index.m3u8
-爱在初夜,https://v2.iaxaa.com/20210918/SxLryNvk/2000kb/hls/index.m3u8
-被玷污的秘书,https://v2.iaxaa.com/20210916/gJhLQxG9/2000kb/hls/index.m3u8
-人妻的性欲,https://v2.iaxaa.com/20210914/pM5GCoKc/2000kb/hls/index.m3u8
-冷雨夜,https://v2.iaxaa.com/20210912/55kUr4Xu/2000kb/hls/index.m3u8
-为人师表,https://v2.iaxaa.com/20210911/nbeQAJJx/2000kb/hls/index.m3u8
-女优面试五,https://v2.iaxaa.com/20210910/epKrzvW7/2000kb/hls/index.m3u8
-手机的秘密,https://v2.iaxaa.com/20210910/Ah1QZbGS/2000kb/hls/index.m3u8
-女优面试六,https://v2.iaxaa.com/20210910/cgc0GRph/2000kb/hls/index.m3u8
-房客的妻子,https://v2.iaxaa.com/20210910/7CUq4P6i/2000kb/hls/index.m3u8
-女优面试四,https://v2.iaxaa.com/20210831/JuX6Brhq/2000kb/hls/index.m3u8
-穿越到王者荣耀的世界第二集,https://v2.iaxaa.com/20210831/cg8QAftq/2000kb/hls/index.m3u8
-奥运选手下海记,https://v2.iaxaa.com/20210830/vWabxPHR/2000kb/hls/index.m3u8
-女优面试三,https://v2.iaxaa.com/20210830/bkUWlJ43/2000kb/hls/index.m3u8
-慈禧秘史,https://v2.iaxaa.com/20210827/rGeHmv0w/2000kb/hls/index.m3u8
-哥哥的小三,https://v2.iaxaa.com/20210826/UbXIRHIF/2000kb/hls/index.m3u8
-女优面试二,https://v2.iaxaa.com/20210826/17LU180t/2000kb/hls/index.m3u8
-表妹18岁,https://v2.iaxaa.com/20210824/AppUKrk7/2000kb/hls/index.m3u8
-恋母癖,https://v2.iaxaa.com/20210824/43DeLpMV/2000kb/hls/index.m3u8
-失恋33天,https://v2.iaxaa.com/20210823/hEUVnZlL/2000kb/hls/index.m3u8
-礼物,https://v1.goulexizuo.com/20210821/gghOYegb/2000kb/hls/index.m3u8
-穿越到王者荣耀的世界 第一集,https://v1.goulexizuo.com/20210821/VdM0ZaJt/2000kb/hls/index.m3u8
-合租男女,https://v1.goulexizuo.com/20210821/wOlWvDQE/2000kb/hls/index.m3u8
-女优面试,https://v1.goulexizuo.com/20210821/vjANSDd0/2000kb/hls/index.m3u8
-女外教,https://v1.goulexizuo.com/20210818/BIQE8BnJ/2000kb/hls/index.m3u8
-女友的惊喜,https://v1.goulexizuo.com/20210816/jjZ7aPom/2000kb/hls/index.m3u8
-出差之旅,https://v1.goulexizuo.com/20210816/OCMG2pRf/2000kb/hls/index.m3u8
-小姨,https://v1.goulexizuo.com/20210815/4rkmMsrl/2000kb/hls/index.m3u8
-七夕,https://v1.goulexizuo.com/20210815/HnFqLrcf/2000kb/hls/index.m3u8
-重逢,https://v1.goulexizuo.com/20210815/Rk9oQoPS/2000kb/hls/index.m3u8
-夫人饶了我吧,https://v1.goulexizuo.com/20210813/ChvhpbUB/2000kb/hls/index.m3u8
-大小姐的沦陷,https://v1.goulexizuo.com/20210813/jYLgZUpE/2000kb/hls/index.m3u8
-被拐卖的外国美女,https://v1.goulexizuo.com/20210813/JvcAo4uU/2000kb/hls/index.m3u8
-贤者之爱,https://v1.goulexizuo.com/20210813/bVmMruvz/2000kb/hls/index.m3u8
-我的表妹,https://v1.goulexizuo.com/20210809/vZPTo8JN/2000kb/hls/index.m3u8
-婚内情,https://v1.goulexizuo.com/20210809/NQE2ggHw/2000kb/hls/index.m3u8
-中华料理,https://v1.goulexizuo.com/20210809/WwR4faTH/2000kb/hls/index.m3u8
-反常的妻子,https://v1.goulexizuo.com/20210809/lMdFj3pY/2000kb/hls/index.m3u8
-寻找陈美惠,https://v1.goulexizuo.com/20210804/p8OaZLQQ/2000kb/hls/index.m3u8
-不孕的妻子,https://v1.goulexizuo.com/20210804/6PXldFwi/2000kb/hls/index.m3u8
-堕落女律师,https://v1.goulexizuo.com/20210804/McrYJN5D/2000kb/hls/index.m3u8
-再遇潘金莲,https://v1.goulexizuo.com/20210801/TasNbeDd/2000kb/hls/index.m3u8
-岳母,https://v1.goulexizuo.com/20210801/vlUBxZGs/2000kb/hls/index.m3u8
-贤惠的嫂子,https://v1.goulexizuo.com/20210730/gF6VhF6q/2000kb/hls/index.m3u8
-弟弟的青春期,https://v1.goulexizuo.com/20210729/iWwLBDAQ/2000kb/hls/index.m3u8
-家教老师,https://v1.goulexizuo.com/20210729/RlNVqw0t/2000kb/hls/index.m3u8
-女海王项思醒,https://v1.goulexizuo.com/20210724/qU4OEjZ3/2000kb/hls/index.m3u8
-再遇班花,https://v1.goulexizuo.com/20210724/eiwLUwr8/2000kb/hls/index.m3u8
-堕落少女,https://v1.goulexizuo.com/20210723/Qyt4Uu7C/2000kb/hls/index.m3u8
-少女的报答,https://v1.goulexizuo.com/20210722/RduQR68R/2000kb/hls/index.m3u8
-妻子的男闺密,https://v1.goulexizuo.com/20210722/Cgmuu5Rh/2000kb/hls/index.m3u8
-女王的调教,https://v1.goulexizuo.com/20210719/Ov1twQDg/2000kb/hls/index.m3u8
-意大利留学生的兼职,https://v1.goulexizuo.com/20210719/K0UEjYRg/2000kb/hls/index.m3u8
-卡在洗衣机的姐姐,https://v1.goulexizuo.com/20210716/z8qgNPj2/2000kb/hls/index.m3u8
-屈服性裁,https://v1.goulexizuo.com/20210716/tavH2TpX/2000kb/hls/index.m3u8
-空姐的兼职,https://v1.goulexizuo.com/20210716/S2BrJG91/2000kb/hls/index.m3u8
-继父与我,https://v1.goulexizuo.com/20210713/kVvvtwba/2000kb/hls/index.m3u8
-真实计划外拍遭遇,https://v1.goulexizuo.com/20210713/yssvXalo/2000kb/hls/index.m3u8
-欧洲杯,https://v1.goulexizuo.com/20210713/odY0mfSJ/2000kb/hls/index.m3u8
-被下药的女儿,https://v1.goulexizuo.com/20210707/VikTazCo/2000kb/hls/index.m3u8
-兄弟新交的女友,https://v1.goulexizuo.com/20210707/5I0Q5JV1/2000kb/hls/index.m3u8
-保姆,https://v1.goulexizuo.com/20210704/GiRzrxcI/2000kb/hls/index.m3u8
-小三的遭遇,https://v1.goulexizuo.com/20210704/tswQCZQz/2000kb/hls/index.m3u8
-公公的特殊照顾,https://v1.goulexizuo.com/20210704/qOqmAetb/2000kb/hls/index.m3u8
-女学渣的救赎,https://v1.goulexizuo.com/20210630/Sl7iXOPM/2000kb/hls/index.m3u8
-盲人弟弟,https://v1.goulexizuo.com/20210630/iSgvvV3M/2000kb/hls/index.m3u8
-弟妹跟我吧,https://v1.goulexizuo.com/20210627/LgD62Vgn/2000kb/hls/index.m3u8
-一夜情,https://v1.goulexizuo.com/20210626/gZPP3nWp/2000kb/hls/index.m3u8
-三胎计划,https://v1.goulexizuo.com/20210626/nlAE3vYJ/2000kb/hls/index.m3u8
-继母的劝慰,https://v1.goulexizuo.com/20210626/vpYBpdkx/2000kb/hls/index.m3u8
-儿媳,https://v1.goulexizuo.com/20210626/szoLkBHl/2000kb/hls/index.m3u8
-中文老师,https://v1.goulexizuo.com/20210621/xwXKPUeK/2000kb/hls/index.m3u8
-妻子的野心下集,https://v1.goulexizuo.com/20210619/vVb7wVUq/2000kb/hls/index.m3u8
-妻子的野心上集,https://v1.goulexizuo.com/20210619/xzbPC2zO/2000kb/hls/index.m3u8
-通缉犯的报复,https://v1.goulexizuo.com/20210617/Loe2zlFh/2000kb/hls/index.m3u8
-伏魔人,https://v1.goulexizuo.com/20210615/rLIjTtrE/2000kb/hls/index.m3u8
-荔枝,https://v1.goulexizuo.com/20210613/aSbWmE4i/2000kb/hls/index.m3u8
-合租的女生,https://v1.goulexizuo.com/20210612/x5BgVfQX/2000kb/hls/index.m3u8
-神奇物语—宠物香水,https://v1.goulexizuo.com/20210611/pWhg643J/2000kb/hls/index.m3u8
-离婚委托,https://v1.goulexizuo.com/20210611/BRxfPnIP/2000kb/hls/index.m3u8
-恸哭大小姐,https://v1.goulexizuo.com/20210609/6OKDxzST/2000kb/hls/index.m3u8
-贪官的妻子,https://v1.goulexizuo.com/20210605/9L48wg2S/2000kb/hls/index.m3u8
-道士下山,https://v1.goulexizuo.com/20210605/zrBlpwZN/2000kb/hls/index.m3u8
-心机婊的上位手段,https://v1.goulexizuo.com/20210605/cOAtlaRL/2000kb/hls/index.m3u8
-考研的姐姐,https://v1.goulexizuo.com/20210603/kcvYYd5t/2000kb/hls/index.m3u8
-下海女教师,https://v1.goulexizuo.com/20210601/vQPqu8aV/2000kb/hls/index.m3u8
-母亲的新男友3,https://v1.goulexizuo.com/20210531/SNra6ftt/2000kb/hls/index.m3u8
-母亲的新男友4,https://v1.goulexizuo.com/20210531/r7BvigaE/2000kb/hls/index.m3u8
-母亲的新男友2,https://v1.goulexizuo.com/20210528/NZbbbdJR/2000kb/hls/index.m3u8
-母亲的新男友1,https://v1.goulexizuo.com/20210528/YG7MRUFl/2000kb/hls/index.m3u8
-迷信的女人,https://v1.goulexizuo.com/20210528/3vAPWt76/2000kb/hls/index.m3u8
-宠物女友,https://v1.goulexizuo.com/20210524/GMVW2FK9/2000kb/hls/index.m3u8
-算命先生,https://v1.goulexizuo.com/20210522/vnwnP0Um/2000kb/hls/index.m3u8
-善良的小姨子,https://v1.goulexizuo.com/20210521/CJHI8Tbk/2000kb/hls/index.m3u8
-交换身体,https://v1.goulexizuo.com/20210518/mE0LCRQ9/2000kb/hls/index.m3u8
-睡了兄弟妹妹,https://v1.goulexizuo.com/20210517/gbCFEP16/2000kb/hls/index.m3u8
-绿帽先生,https://v1.goulexizuo.com/20210517/sGNWUTp8/2000kb/hls/index.m3u8
-失忆小母狗,https://v1.goulexizuo.com/20210515/cnLxH7Kt/2000kb/hls/index.m3u8
-嫖错妓,https://v1.goulexizuo.com/20210515/KwwoAOwo/2000kb/hls/index.m3u8
-诈骗报复,https://v1.goulexizuo.com/20210512/hRFGrIab/2000kb/hls/index.m3u8
-台湾一夜,https://v1.goulexizuo.com/20210512/22nq6EzS/2000kb/hls/index.m3u8
-搭讪美女,https://v1.goulexizuo.com/20210509/dg6HeN5C/2000kb/hls/index.m3u8
-可恶岳母,https://v1.goulexizuo.com/20210509/nBKuO1vL/2000kb/hls/index.m3u8
-上錯轎車找對郎,https://v1.goulexizuo.com/20210508/X98exF8Q/2000kb/hls/index.m3u8
-堕落人妻四,https://v1.goulexizuo.com/20210505/LYblb6Og/2000kb/hls/index.m3u8
-饥渴的洋妞,https://v1.goulexizuo.com/20210505/RxWjFWF2/2000kb/hls/index.m3u8
-原版 被报复的小姐 嫖娼遇套路 报复可恶的小姐,https://v1.goulexizuo.com/20210502/k6keDHFx/2000kb/hls/index.m3u8
-侵犯女老板,https://v1.goulexizuo.com/20210501/UXkiZrbj/2000kb/hls/index.m3u8
-消失的爱人,https://v1.goulexizuo.com/20210501/RBTcnplM/2000kb/hls/index.m3u8
-女间谍的秘密,https://v1.goulexizuo.com/20210428/I82Hr2Zc/2000kb/hls/index.m3u8
-元气少女来到大城市 用身体抵扣房租被干到娇喘连连,https://v1.goulexizuo.com/20210107/yC2gUKlH/2000kb/hls/index.m3u8
-发现老公出轨 性感少妇却独守空房,https://v1.goulexizuo.com/20201228/ajGasW2A/2000kb/hls/index.m3u8
-不良傲娇刺青叛逆少女为钱面试下海羞辱试镜全录,https://v1.goulexizuo.com/20201213/5iHuqoK0/1000kb/hls/index.m3u8
