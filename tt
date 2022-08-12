@@ -11,8 +11,8 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  
-  "spider": "https://freetvbox.ml/api/jar/0807.jar",
-  "sites": [
+  "spider": "https://jyt0106.github.io/t/zy.jar",
+  "sites": [   
     {
       "key": "csp_QQ",
       "name": "🐧腾讯〔SP〕",
