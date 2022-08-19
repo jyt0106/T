@@ -46,6 +46,8 @@
 "jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
 
     },
+ {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
+  "jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"},  
     {
       "key": "zhaozy",
       "name": "🔎找资源〔SP〕",
@@ -726,7 +728,7 @@
     {"name":"QIM解14","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {"name":"QI解01","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","rx"]}},
    // {"name":"QI解06","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
-    {"name":"QI解07","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
+   // {"name":"QI解07","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
     {"name":"QI解08","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"QI解10","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
     {"name":"Q解01","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header": {"User-Agent": "Dalvik/2.1.0"}}},
