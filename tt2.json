@@ -5,9 +5,19 @@
 {
   "wallpaper": "https://my-jyt0106.vercel.app/api",
  
-  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/0807.jar;md5;0e29b2b4be00b0ae584c757c2d363215",
+  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8",
   "sites": [
     {
+      "key": "七七",
+      "name": "🌙🎋七七〔SP〕推荐",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
+    },
+	  {
       "key": "csp_QQ",
       "name": "🐧腾讯〔SP〕",
       "type": 3,
@@ -36,55 +46,54 @@
     },
   {
       "key": "Gitcafe",
-      "name": "🛩️小纸条〔SP〕",
+      "name": "🛩️小纸条〔SP〕推荐",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
+"jar":"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
  {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
-  "jar":"https://jyt0106.github.io/t/Yiso.jar;md5;13a462a1160854a897b4c9e7b2be0649"},  
+  "jar":"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"},  
     {
       "key": "zhaozy",
-      "name": "🔎找资源〔SP〕",
+      "name": "🔎找资源〔SP〕推荐",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
+"jar":"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
       "key": "AliPS",
-      "name": "🔍️盘搜〔SP〕",
+      "name": "🔍️盘搜〔SP〕推荐",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
+"jar":"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "push_agent",
-      "name": "🍳推送〔SP〕",
+      "name": "🍳推送〔SP〕推荐",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "59a418fad0794b72bf4604980203123a",
-"jar": "https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
- {"key": "csp_Yisou"    ,"name":" 🧻易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"59a418fad0794b72bf4604980203123a"},  
-   
+ 
 
 
 {"key":"优酷(官源)","name":"💋优酷〔SP〕","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar": "https://jyt0106.github.io/X/api/jar/House.jar"},
@@ -92,7 +101,7 @@
 {"key":"搜狐(官源)","name":"🐼搜狐〔SP〕","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar": "https://jyt0106.github.io/X/api/jar/House.jar"},
      {
       "key": "360",
-      "name": "🎱360〔SP〕",
+      "name": "🎱360〔SP〕推荐",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -102,7 +111,7 @@
     },
     {
       "key": "293视频",
-      "name": "🛫293视频〔SP〕",
+      "name": "🛫293视频〔SP〕推荐",
       "type": 3,
       "api": "csp_SP293",
       "searchable": 1,
@@ -112,7 +121,7 @@
 "https://jyt0106.github.io/X/api/jar/0808.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
     },
 
-{"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
+{"key":"KanSJ_spider","name":"🐞看视界〔SP〕推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
 "jar": "https://jyt0106.github.io/X/api/jar/ksj.jar;md5;7eacb357cf27abce92ed497367221e5a"},
 
 {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -152,7 +161,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_hbys〔SP〕",
@@ -164,7 +173,7 @@
       "filterable": 1,
       "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk",
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "酷猫",
@@ -175,7 +184,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
     {
@@ -186,19 +195,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
-    {
-      "key": "七七",
-      "name": "🌙🎋七七〔SP〕",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
-    },
+    
     {
       "key": "神马影院",
       "name": "📺神马影院〔SP〕",
@@ -207,17 +207,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Kuaikan",
-      "name": "🕶快看〔SP〕",
+      "name": "🕶快看〔SP〕推荐",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "小熊",
@@ -227,7 +227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "zxzj",
@@ -237,17 +237,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Cokemv",
-      "name": "🌟Cokemv〔SP〕",
+      "name": "🌟Cokemv〔SP〕推",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Auete",
@@ -257,7 +257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Lib",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Ikan",
@@ -277,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Olevod",
@@ -287,7 +287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "小苹果",
@@ -297,7 +297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "Nfyun",
@@ -307,7 +307,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "小宝影院",
@@ -317,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "If101",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
 
@@ -341,7 +341,7 @@
       "quickSearch": 1,
       "filterable": 0,
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
     {
@@ -353,7 +353,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "3EDY",
@@ -364,7 +364,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://jyt0106.github.io/X/api/jar/custom_spider_0807.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+"https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
   
     {
@@ -376,7 +376,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPbd/Bdys.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
 
@@ -389,7 +389,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMac/lezhutv.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
     {
@@ -401,7 +401,7 @@
       "quickSearch":0,
       "filterable":0,
       "ext":"https://jyt0106.github.io/X/api/Xpath/bttwoo.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 },
     {
       "key":"csp_xpath_saohuotv",
@@ -412,7 +412,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://jyt0106.github.io/X/api/Xpath/saohuotv.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar":" https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_biubiu_dmxq",
@@ -423,7 +423,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/dmxq.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
 
@@ -436,7 +436,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMacFilter/huohuo.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_xpath_naifeiorg",
@@ -447,7 +447,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMacFilter/naifeiorg.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_biubiu_kdys",
@@ -458,7 +458,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/kdys.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -469,7 +469,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/555电影.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
     {
       "key": "csp_biubiu_橘子tv",
@@ -480,7 +480,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/juzi.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
     {
@@ -492,7 +492,7 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://jyt0106.github.io/X/api/XBiubiu/茶杯狐.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
 {"key":"csp_AppYsV2","name": "🚁优众","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
@@ -509,7 +509,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMacFilter/jubaibai.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
     {
@@ -521,7 +521,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/宝仙HD.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
 
@@ -535,7 +535,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jyt0106.github.io/X/api/XBiubiu/tvbox.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
 
@@ -551,7 +551,7 @@
       "quickSearch":1,
       "filterable":0,
       "ext":"https://jyt0106.github.io/X/api/Xpath/wanmeikk.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
@@ -563,7 +563,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathFilter/cokemv.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
@@ -575,7 +575,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathFilter/libvio.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
@@ -587,7 +587,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMacFilter/Gimy.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
@@ -599,7 +599,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathFilter/zxzj.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
@@ -611,7 +611,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jyt0106.github.io/X/api/XPathMacFilter/dadagui.json",
-"jar": "https://jyt0106.github.io/X/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
 
     },
     {
