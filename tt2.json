@@ -43,11 +43,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"
+"jar":"https://jyt0106.github.io/t/Yiso.jar;md5;13a462a1160854a897b4c9e7b2be0649"
 
     },
  {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
-  "jar":"https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649"},  
+  "jar":"https://jyt0106.github.io/t/Yiso.jar;md5;13a462a1160854a897b4c9e7b2be0649"},  
     {
       "key": "zhaozy",
       "name": "🔎找资源〔SP〕",
