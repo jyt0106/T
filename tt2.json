@@ -195,6 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+	    "jar": 
 "https://gitea.com/jyt/Tan/raw/branch/main/hj.jar;md5;3e40f9f7fbec1f4f7d94c9cdeeeca0f8"
     },
 
