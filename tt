@@ -6,33 +6,12 @@
   "spider": "https://jyt0106.github.io/t/818.jar;md5;13a462a1160854a897b4c9e7b2be0649",
   "sites": [   
   {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"59a418fad0794b72bf4604980203123a"},
-  {
-      "key": "csp_QQ",
-      "name": "🐧腾讯〔SP〕",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://jyt0106.github.io/t/xxoo818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"
-    },
-    {
-      "key": "csp_MGTV",
-      "name": "🍋芒果〔SP〕",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://jyt0106.github.io/t/xxoo818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"
-    },
-    {
-      "key": "csp_IQIYI",
-      "name": "🍈爱奇艺〔SP〕",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://jyt0106.github.io/t/xxoo818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"
-    },
+ {"key":"爱奇艺",           "name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技", "健康"],"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
+{"key":"csp_MGTV",        "name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"categories":["少儿","电视剧","电影","动漫","综艺","纪录片","新闻","音乐",
+                 "原创"],"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
+
+{"key":"csp_QQ",          "name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["少儿","电视剧","电影","动漫","纪录片","知识","学堂",
+                  "综艺"],"jar":"https://ghproxy.com/https://raw.githubusercontent.com/Sturiss/douban/main/app/src/main/assets/LionMovies/Jar/youku.jar;md5;BEAF7A176C625E281F49420B449C97ED"},
 
 
 
