@@ -5,7 +5,7 @@
 {
   "wallpaper": "https://my-jyt0106.vercel.app/api",
  
-  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c",
+  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;9688a4cc08235f9422baa3fe451dd0a4",
   "sites": [
     {
       "key": "七七",
@@ -52,13 +52,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "59a418fad0794b72bf4604980203123a"
+	 //,"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
 
     },
  {"key": "csp_Yiso","name":"😄易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
-"ext": "59a418fad0794b72bf4604980203123a",
-  "jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"},  
+"ext": "59a418fad0794b72bf4604980203123a"
+     //, "jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+ },  
     {
       "key": "zhaozy",
       "name": "🔎找资源〔SP〕推荐",
@@ -67,8 +68,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "59a418fad0794b72bf4604980203123a"
+//,"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
 
     },
     {
@@ -79,8 +80,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "59a418fad0794b72bf4604980203123a",
-"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "59a418fad0794b72bf4604980203123a"
+//，"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "push_agent",
@@ -90,8 +91,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "59a418fad0794b72bf4604980203123a",
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "59a418fad0794b72bf4604980203123a"
+	 //   ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
 
     },
  
@@ -108,8 +109,8 @@
       "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	     //,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "293视频",
@@ -118,18 +119,19 @@
       "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
-       "filterable":1,
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+       "filterable":1
+	   // ,  "jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
 
-{"key":"KanSJ_spider","name":"🐞看视界〔SP〕推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"},
+{"key":"KanSJ_spider","name":"🐞看视界〔SP〕推荐","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1
+ //,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+},
 
 {"key": "9E03","name": "9️⃣9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"},
+"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+ //,"jar": 
+"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+},
 
    {
       "key": "Bili",
@@ -139,8 +141,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jyt0106.github.io/X/api/sub/Bili.json",
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "https://jyt0106.github.io/X/api/sub/Bili.json"
+//	   ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
 
    {
@@ -161,7 +163,8 @@
       "api": "csp_ZJMiao",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
+	    ,
         "jar": 
 "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
@@ -173,9 +176,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk",
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"
+	 //   , "jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "酷猫",
@@ -184,9 +186,8 @@
       "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+      // , "jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
 
     {
@@ -196,9 +197,8 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-	    "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	 //   ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
 
     
@@ -209,8 +209,8 @@
       "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Kuaikan",
@@ -219,8 +219,8 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	   // ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "小熊",
@@ -229,8 +229,8 @@
       "api": "csp_Xxys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "zxzj",
@@ -239,8 +239,8 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	  //  ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Cokemv",
@@ -249,8 +249,8 @@
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	//    ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Auete",
@@ -259,8 +259,8 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Lib",
@@ -269,8 +269,8 @@
       "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	  //  ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Ikan",
@@ -279,8 +279,8 @@
       "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	//    ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Olevod",
@@ -289,8 +289,8 @@
       "api": "csp_Olevod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	   // ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "小苹果",
@@ -299,8 +299,8 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	   // ,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "Nfyun",
@@ -309,8 +309,8 @@
       "api": "csp_Nfyun",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "小宝影院",
@@ -319,8 +319,8 @@
       "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "If101",
@@ -329,8 +329,8 @@
       "api": "csp_If101",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+//,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
 
 
@@ -342,9 +342,8 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/n6.jar;md5;4a24bcb763f0ff62e27725f420e22f70"
+      "filterable": 0
+	   // , "jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/n6.jar;md5;4a24bcb763f0ff62e27725f420e22f70"
     },
 
     {
@@ -354,9 +353,8 @@
       "api": "csp_Ekan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1
+	   // , "jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
     },
     {
       "key": "3EDY",
@@ -365,9 +363,8 @@
       "api": "csp_EEEDY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-        "jar": 
-"https://gitea.com/jyt/Tan/raw/branch/main/jar/n6.jar;md5;4a24bcb763f0ff62e27725f420e22f70"
+      "filterable": 1
+
     },
   
     {
