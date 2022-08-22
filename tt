@@ -3,7 +3,7 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  
-  "spider": "https://jyt0106.github.io/t/Yiso.jar;md5;13a462a1160854a897b4c9e7b2be0649",
+  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/jar/zt161.jar;md5;8c2d5475b5f4976f87e237bdf419947c",
   "sites": [   
   {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"59a418fad0794b72bf4604980203123a"},
  {"key":"爱奇艺",           "name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,
