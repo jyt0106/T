@@ -5,7 +5,7 @@
 {
   "wallpaper": "https://my-jyt0106.vercel.app/api",
  
-  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;26518b3a5ef57e25cba2f7622b53782e",
+  "spider": "https://gitea.com/jyt/Tan/raw/branch/main/jar/hj.jar;md5;39ed6ba79755eda0117b946dc4e45db9",
   "sites": [
     {
       "key": "七七",
@@ -24,7 +24,7 @@
       "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/hj.jar;md5;39ed6ba79755eda0117b946dc4e45db9"
     },
     {
       "key": "csp_MGTV",
@@ -33,7 +33,7 @@
       "api": "csp_MGTV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/hj.jar;md5;39ed6ba79755eda0117b946dc4e45db9"
     },
     {
       "key": "csp_IQIYI",
@@ -42,7 +42,7 @@
       "api": "csp_IQIYI",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;c5ea388231773697de0f273ce29b186c"
+      "filterable": 1,"jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/hj.jar;md5;39ed6ba79755eda0117b946dc4e45db9"
     },
   {
       "key": "Gitcafe",
