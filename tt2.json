@@ -52,7 +52,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "59a418fad0794b72bf4604980203123a"
+      "jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/2.jar;md5;26518b3a5ef57e25cba2f7622b53782e"
 	
     },
  {"key": "csp_Yiso","name":"😄易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "59a418fad0794b72bf4604980203123a"
