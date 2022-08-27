@@ -324,7 +324,27 @@
 {"name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="}, 
 {"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url="}, 
   
-  
+  {"name":"PPJ蓝光解析","type":1,"url": "https://bf.ppjbk.cn/?url="}, // TODO 腾讯 (芒果) 
+
+{"name":"PPJ解析","type":1,"url": "https://jx.ppjbk.cn/?url="}, // TODO 腾讯 (芒果) (B站) 
+
+{"name":"PPJ弹幕解析2","type":1,"url": "https://bf.ppjbk.cn/bf/?url="}, // TODO 腾讯 (芒果) 
+
+{"name":"OK解析","type":1,"url": "https://apiokjxcc:3389/jx.php?url="},
+{"name":"OK解析1","type":1,"url":"https://okjx.cc/?url="},
+{"name":"OK解析2","type":1,"url":"https://m2090.com/?url="},// TODO 优质: 腾讯 (爱奇艺) 优酷 乐视 芒果 PPTV (华数) 
+
+{"name":"全民解析","type":1,"url": "https://jxquanmingjiexi.com/?url="},
+
+{"name":"全民解析1","type":1,"url": "https://chaxun.truechat365.com/?url="}, // TODO (腾讯) 
+
+{"name":"云解析","type":1,"url": "https://jx.aidouer.net/?url="}, {"name":"云解析1","type":1,"url":"https://jx.ppflv.com/?url="}, // TODO 腾讯 [爱奇艺] 优酷 (乐视) 芒果 (1905电影网) [华数] 
+
+{"name":"天翼解析","type":1,"url": "https://jsap.attakids.com/?url="},
+
+{"name":"天翼解析1","type":1,"url": "https://www.qianyicp.com/vip/vip_g.php?url="},// _4K解析: "",// TODO 腾讯 爱奇艺 (优酷) 咪咕 乐视 (芒果) 西瓜 PPTV 
+
+
   
   {
       "name": "QQ解析",
