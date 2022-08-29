@@ -37,6 +37,12 @@
   "ext": "https://alist.shenzjd.com",
 "jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/A.jar;md5;58ded91b3e89b54eb6b49bbe08984e2a"
  },
+{"key": "csp_Alist3","name": "🚩Alist3","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com","jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/A.jar;md5;58ded91b3e89b54eb6b49bbe08984e2a"},	  
+	
+{"key": "csp_Alist5","name": "🚩Alist5","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wangpan.sangxuesheng.com","jar":"https://gitea.com/jyt/Tan/raw/branch/main/jar/A.jar;md5;58ded91b3e89b54eb6b49bbe08984e2a"},	  
+	  
+	  
+	  
 	  {
       "key": "csp_QQ",
       "name": "🐧腾讯〔SP〕",
