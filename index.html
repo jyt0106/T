@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API 示例</title>
+</head>
+<body>
+  <h1>API 示例</h1>
+  <button id="sendRequest">发送请求</button>
+  <pre id="responseOutput"></pre>
+
+  <script>
+    document.getElementById('sendRequest').addEventListener('click', () => {
+      // 示例数据
+      const data = {
+        input: "您需要发送的输入内容"
+      };
+
+      // 将对象转换为JSON字符串
+      const requestBody = JSON.stringify(data);
+
+      // 使用fetch发送请求
+      fetch('http://www.zhangb.top:8111/Imagine', {
+        method: 'POST', // 使用POST方法
+        headers: {
+          'Content-Type': 'application/json' // 设置请求头的内容类型为JSON
+        },
+        body: requestBody // 添加请求体
+      })
+      .then(response => response.json()) // 将响应转换为JSON
+      .then(jsonData => {
+        document.getElementById('responseOutput').innerText = JSON.stringify(jsonData, null, 2); // 在页面上显示响应数据
+      })
+      .catch(error => {
+        console.error('Error:', error); // 打印错误信息
+      });
+    });
+  </script>
+</body>
+</html>
