@@ -9,6 +9,7 @@
   <h1>API 示例</h1>
   <button id="sendRequest">发送请求</button>
   <pre id="responseOutput"></pre>
+  <img id="resultImage" src="" alt="从API接收到的图片" style="display: none;">
 
   <script>
     document.getElementById('sendRequest').addEventListener('click', () => {
@@ -31,6 +32,8 @@
       .then(response => response.json()) // 将响应转换为JSON
       .then(jsonData => {
         document.getElementById('responseOutput').innerText = JSON.stringify(jsonData, null, 2); // 在页面上显示响应数据
+        document.getElementById('resultImage').src = jsonData.image_url; // 设置图片元素的src属性
+        document.getElementById('resultImage').style.display = 'block'; // 显示图片
       })
       .catch(error => {
         console.error('Error:', error); // 打印错误信息
